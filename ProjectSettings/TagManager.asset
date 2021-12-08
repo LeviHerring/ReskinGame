@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - shield
+  - Bullet
+  - Bullet2
+  - LightNeutral
+  - LightLow
+  - LightJump
+  - HeavyLow
+  - HeavyNeutral
+  - HeavyHigh
+  - LightHigh
+  - HeavyJump
+  - Grab
+  - Player2 _LightNeutral
+  - Player2_LightHigh
+  - Player2_LightLow
+  - Player2_LightJump
+  - Player2_HeavyNeutral
+  - Player2_HeavyLow
+  - Player2_HeavyHigh
+  - Player2_HeavyJump
+  - Player2_Grab
+  - Special
+  - Wall
+  - Player2
+  - SpeedyQuick_LightNeutral
+  - SpeedyQuick_LightLow
+  - SpeedyQuick_LightHigh
+  - SpeedyQuick_HeavyNeutral
+  - SpeedyQuick_LightJump
+  - SpeedyQuick_HeavyLow
+  - SpeedyQuick_HeavyHigh
+  - SpeedyQuick_HeavyJump
+  - GokuMan_LightNeutral
+  - GokuMan_LightHigh
+  - GokuMan_LightLow
+  - GokuMan_LightJump
+  - GokuMan_HeavyHigh
+  - GokuMan_HeavyNeutral
+  - GokuMan_HeavyLow
+  - GokuMan_HeavyJump
+  - VegetaMan_LightNeutral
+  - VegetaMan_LightHIGH
+  - VegetaMan_LightLow
+  - VegetaMan_LightJump
+  - VegetaMan_HeavyHigh
+  - VegetaMan_HeavyNeutral
+  - VegetaMan_HeavyLow
+  - VegetaMan_HeavyJump
+  - Speaman_LightNeutral
+  - Speaman_LightLow
+  - Speaman_LightHigh
+  - Speaman_LightJump
+  - Speaman_HeavyNeutral
+  - Speaman_HeavyLow
+  - Speaman_HeavyHigh
+  - Speaman_HeavyJump
+  - VegetaMan
+  - Dababy_LightNeutral
+  - Dababy_LightLow
+  - Dababy_LightHigh
+  - Dababy_LightJump
+  - Dababy_HeavyNeutral
+  - Dababy_HeavyHigh
+  - Dababy_HeavyLow
+  - Dababy_HeavyJump
+  - LeGranpa_LightNeutral
+  - 'LeGranpa_LightLow '
+  - LeGranpa_LightHigh
+  - 'LeGranpa_LightJump '
+  - LeGranpa_HeavyNeutral
+  - LeGranpa_HeavyHigh
+  - LeGranpa_HeavyLow
+  - 'LeGranpa_HeavyJump '
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Shield
+  - Post processing layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1131394303
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1178712419
+    locked: 0
+  - name: Player
+    uniqueID: 2201898631
+    locked: 0
+  - name: Shield
+    uniqueID: 3968215845
+    locked: 0

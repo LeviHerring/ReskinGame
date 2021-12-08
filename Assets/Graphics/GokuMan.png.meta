@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: dec3e998ab5a21f42830e10a4f2b3b8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2587110595014669830
+    second: GokuMan_Idle
+  - first:
+      213: 5087356502382651119
+    second: GokuMan_LightNeutral1
+  - first:
+      213: 3024173939950099298
+    second: GokuMan_LightNeutral2
+  - first:
+      213: -1960918286405350916
+    second: GokuMan_LightLow3
+  - first:
+      213: -8462729340692979126
+    second: GokuMan_LightNeutral3
+  - first:
+      213: -9166448890140678296
+    second: GokuMan_LightLow1
+  - first:
+      213: 257361378781537937
+    second: GokuMan_LightLow2
+  - first:
+      213: 7193734202719813291
+    second: GokuMan_LightLow4
+  - first:
+      213: 2713956261092294811
+    second: GokuMan_LightHigh1
+  - first:
+      213: -6917531610063716649
+    second: GokuMan_LightHigh2
+  - first:
+      213: 2124907968684768898
+    second: GokuMan_HeavyNeutral2
+  - first:
+      213: -2151296458855902329
+    second: GokuMan_HeavyNeutral3
+  - first:
+      213: -4509552831527450896
+    second: GokuMan_HeavyNeutral4
+  - first:
+      213: 185224970736354676
+    second: GokuMan_HeavyLow4
+  - first:
+      213: 5579652607883213536
+    second: GokuMan_LightJump
+  - first:
+      213: -6971345820800186831
+    second: GokuMan_HeavyLow1
+  - first:
+      213: 7116724454841266592
+    second: GokuMan_HeavyNeutral1
+  - first:
+      213: -9053313171144940277
+    second: GokuMan_HeavyLow5
+  - first:
+      213: 1766892415392915603
+    second: GokuMan_HeavyLow2
+  - first:
+      213: 9201670303679715471
+    second: GokuMan_HeavyLow6
+  - first:
+      213: -2754529300981261553
+    second: GokuMan_HeavyLow7
+  - first:
+      213: 8796206266371887254
+    second: GokuMan_HeavyHigh1
+  - first:
+      213: 5630222053219092311
+    second: GokuMan_HeavyHigh2
+  - first:
+      213: 7042239069675908031
+    second: GokuMan_HeavyHigh3
+  - first:
+      213: -1126127647341851048
+    second: GokuMan_HeavyLow3
+  - first:
+      213: 8558774434139267434
+    second: GokuMan_Hit
+  - first:
+      213: -7647149344926927495
+    second: GokuMan_HeavyJump1
+  - first:
+      213: -7530362089966081422
+    second: GokuMan_HeavyJump2
+  - first:
+      213: 8161713020916432713
+    second: GokuMan_HeavyJump3
+  - first:
+      213: 325853474943351841
+    second: GokuMan_HeavyJump4
+  - first:
+      213: -8482268321264013184
+    second: GokuMan_HeavyJump5
+  - first:
+      213: 5010455313774471385
+    second: GokuMan_HeavyJump6
+  - first:
+      213: 7591709917500669625
+    second: GokuMan_32
+  - first:
+      213: -2511160183833340368
+    second: GokuMan_HeavyJump7
+  - first:
+      213: -6488106452855962734
+    second: GokuMan_HeavyJump8
+  - first:
+      213: -4180474078238142671
+    second: GokuMan_Projectile1
+  - first:
+      213: -2080759873177977037
+    second: GokuMan_36
+  - first:
+      213: 8694938285870623859
+    second: GokuMan_Projectile2
+  - first:
+      213: 2058002661972047273
+    second: GokuMan_Grab1
+  - first:
+      213: -8429487262912989741
+    second: GokuMan_Grab2
+  - first:
+      213: 8497835411904923653
+    second: GokuMan_40
+  - first:
+      213: -8379749475400386939
+    second: GokuMan_41
+  - first:
+      213: 1461980362738288711
+    second: GokuMan_Throw1
+  - first:
+      213: -8580291709012650762
+    second: GokuMan_Throw2
+  - first:
+      213: 471641565138152615
+    second: GokuMan_Throw3
+  - first:
+      213: 6649215366916002455
+    second: GokuMan_Block
+  - first:
+      213: -736783814907100442
+    second: GokuMan_46
+  - first:
+      213: 1547255698182477975
+    second: GokuMan_Run
+  - first:
+      213: 5910893415398710897
+    second: GokuMan_48
+  - first:
+      213: -3341094643492931227
+    second: GokuMan_49
+  - first:
+      213: 6930049190981345755
+    second: GokuMan_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GokuMan_Idle
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2000
+        width: 49
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606bf7a016347e320800000000000000
+      internalID: 2587110595014669830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightNeutral1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1800
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6aa42f8cbe99640800000000000000
+      internalID: 5087356502382651119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightNeutral2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1802
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b18b5fc2608f920800000000000000
+      internalID: 3024173939950099298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightLow3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1698
+        width: 52
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9cd39353b69c4e0800000000000000
+      internalID: -1960918286405350916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightNeutral3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1801
+        width: 68
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4228b980885e8a80800000000000000
+      internalID: -8462729340692979126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightLow1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1701
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672463ec4b3ac080800000000000000
+      internalID: -9166448890140678296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightLow2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1701
+        width: 53
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ad297fc4529300800000000000000
+      internalID: 257361378781537937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightLow4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1700
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae31b1b42745d360800000000000000
+      internalID: 7193734202719813291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightHigh1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1599
+        width: 63
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908a5e17d8e9a520800000000000000
+      internalID: 2713956261092294811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightHigh2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1599
+        width: 57
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7debd9bb6adffff90800000000000000
+      internalID: -6917531610063716649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyNeutral2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1402
+        width: 61
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e3add0a803d7d10800000000000000
+      internalID: 2124907968684768898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyNeutral3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1401
+        width: 64
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783965bc44f0522e0800000000000000
+      internalID: -2151296458855902329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyNeutral4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1402
+        width: 89
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f603f4a799da61c0800000000000000
+      internalID: -4509552831527450896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyLow4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1301
+        width: 63
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475c548212d029200800000000000000
+      internalID: 185224970736354676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyLow1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1300
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1360dc869edc04f90800000000000000
+      internalID: -6971345820800186831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyLow5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1301
+        width: 73
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056a8923ab2c5280800000000000000
+      internalID: -9053313171144940277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyLow6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1301
+        width: 67
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88171f7366e2bf70800000000000000
+      internalID: 9201670303679715471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyLow7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1301
+        width: 68
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5b93e132f5c9d0800000000000000
+      internalID: -2754529300981261553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyHigh1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1200
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6905926bef6621a70800000000000000
+      internalID: 8796206266371887254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyHigh2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1203
+        width: 61
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c1b09021922e40800000000000000
+      internalID: 5630222053219092311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyHigh3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1204
+        width: 66
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbe86b5f1f0bb160800000000000000
+      internalID: 7042239069675908031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyJump1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1099
+        width: 57
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975f447ef2edfd590800000000000000
+      internalID: -7647149344926927495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyJump2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1102
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ae085a397ce7790800000000000000
+      internalID: -7530362089966081422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyJump3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1099
+        width: 72
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f776affba344170800000000000000
+      internalID: 8161713020916432713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyJump4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1101
+        width: 63
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c33de420aa58400800000000000000
+      internalID: 325853474943351841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyJump5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1101
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080728d17ede84a80800000000000000
+      internalID: -8482268321264013184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyJump6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1102
+        width: 76
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8ee74bf86b88540800000000000000
+      internalID: 5010455313774471385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyJump7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1100
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03652841e11962dd0800000000000000
+      internalID: -2511160183833340368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyJump8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1101
+        width: 62
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c99c7e8d95f5a0800000000000000
+      internalID: -6488106452855962734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 998
+        width: 55
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f03e599f8fbf5c0800000000000000
+      internalID: -4180474078238142671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1000
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2341ad40aaa870800000000000000
+      internalID: 8694938285870623859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Grab1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 899
+        width: 67
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f6ad648e7f8c10800000000000000
+      internalID: 2058002661972047273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Grab2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 900
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53467eef1740b80800000000000000
+      internalID: -8429487262912989741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Throw1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 799
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748cc9dd46ff94410800000000000000
+      internalID: 1461980362738288711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Throw2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 797
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f45217a62eace880800000000000000
+      internalID: -8580291709012650762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Throw3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 801
+        width: 66
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac6e5f218b9b8600800000000000000
+      internalID: 471641565138152615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Block
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 698
+        width: 49
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792d81ca522c64c50800000000000000
+      internalID: 6649215366916002455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Run
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 202
+        width: 82
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7989dda1cd4f87510800000000000000
+      internalID: 1547255698182477975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_LightJump
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1501
+        width: 63
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4966821, y: 0.028615523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf5fe0c78ee6d40800000000000000
+      internalID: 5579652607883213536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyNeutral1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1400
+        width: 55
+        height: 99
+      alignment: 9
+      pivot: {x: 0.48830476, y: 0.0419367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a136278f2fa3c260800000000000000
+      internalID: 7116724454841266592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyLow2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1302
+        width: 61
+        height: 100
+      alignment: 9
+      pivot: {x: 0.52965957, y: 0.047697753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a3d75a43458810800000000000000
+      internalID: 1766892415392915603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_HeavyLow3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1302
+        width: 61
+        height: 99
+      alignment: 9
+      pivot: {x: 0.47034118, y: 0.061403833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e41780fd03f50f0800000000000000
+      internalID: -1126127647341851048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GokuMan_Hit
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 50
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.061142027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e0936000e6c670800000000000000
+      internalID: 8558774434139267434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

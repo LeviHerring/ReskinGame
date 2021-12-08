@@ -1,0 +1,4788 @@
+fileFormatVersion: 2
+guid: 9bd3e9d178b7ef74db0d022d075ec3b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1340937715644443710
+    second: FemaleGoblin_Run1
+  - first:
+      213: 7351671032795540421
+    second: FemaleGoblin_Run2
+  - first:
+      213: 9059109353056876882
+    second: FemaleGoblin_Run3
+  - first:
+      213: 5349335806581690014
+    second: FemaleGoblin_Run4
+  - first:
+      213: -4561492529020192293
+    second: FemaleGoblin_Run5
+  - first:
+      213: 877619000575628513
+    second: FemaleGoblin_Run6
+  - first:
+      213: 5017952804342200065
+    second: FemaleGoblin_Run7
+  - first:
+      213: -7618992602033942252
+    second: FemaleGoblin_Run8
+  - first:
+      213: 3576279767327087460
+    second: FemaleGoblin_Run9
+  - first:
+      213: 342212207775990209
+    second: FemaleGoblin_Run10
+  - first:
+      213: -3844131496208738760
+    second: FemaleGoblin_Run11
+  - first:
+      213: -4938454778272281599
+    second: FemaleGoblin_Run12
+  - first:
+      213: 5289247361146040214
+    second: FemaleGoblin_Idle1
+  - first:
+      213: 4782771693369153475
+    second: FemaleGoblin_Idle2
+  - first:
+      213: -1945790670721316989
+    second: FemaleGoblin_Idle3
+  - first:
+      213: 3230284615278099037
+    second: FemaleGoblin_Idle4
+  - first:
+      213: -4161703380421747562
+    second: FemaleGoblin_Idle5
+  - first:
+      213: -982696734943057800
+    second: FemaleGoblin_Idle6
+  - first:
+      213: -6541328821688773327
+    second: FemaleGoblin_Idle7
+  - first:
+      213: -2930994155713260604
+    second: FemaleGoblin_Idle8
+  - first:
+      213: -5088646986244011685
+    second: FemaleGoblin_Idle9
+  - first:
+      213: 1324429918617060052
+    second: FemaleGoblin_Idle10
+  - first:
+      213: 8114590634467345387
+    second: FemaleGoblin_MiddleLight1
+  - first:
+      213: -3227475515032282023
+    second: FemaleGoblin_MiddleLight2
+  - first:
+      213: -6815920134590273528
+    second: FemaleGoblin_MiddleLight3
+  - first:
+      213: 7940264703075388350
+    second: FemaleGoblin_MiddleLight4
+  - first:
+      213: 8731315055498611034
+    second: FemaleGoblin_MiddleLight5
+  - first:
+      213: 3393603956871081229
+    second: FemaleGoblin_MiddleLight
+  - first:
+      213: 8929073106664145758
+    second: FemaleGoblin_MiddleLight6
+  - first:
+      213: -9036667209023755179
+    second: FemaleGoblin_MiddleLight7
+  - first:
+      213: 344086892259374552
+    second: FemaleGoblin_MiddleLight8
+  - first:
+      213: 3479217845218464514
+    second: FemaleGoblin_MiddleLight9
+  - first:
+      213: 8768475466345173065
+    second: FemaleGoblin_MiddleLight10
+  - first:
+      213: -5049071820231897822
+    second: FemaleGoblin_MiddleLight11
+  - first:
+      213: 7681274540624734397
+    second: FemaleGoblin_LowLight1
+  - first:
+      213: 3598990949683026948
+    second: FemaleGoblin_LowLight2
+  - first:
+      213: -825184417359707883
+    second: FemaleGoblin_LowLight3
+  - first:
+      213: -6210842924861124415
+    second: FemaleGoblin_LowLight4
+  - first:
+      213: -8177651977843859665
+    second: FemaleGoblin_LowLight5
+  - first:
+      213: -1918719082466492489
+    second: FemaleGoblin_LowLight6
+  - first:
+      213: -1925083648620668591
+    second: FemaleGoblin_LowLight7
+  - first:
+      213: -9216985574244149327
+    second: FemaleGoblin_LowLight8
+  - first:
+      213: 9177808867747372483
+    second: FemaleGoblin_LowLight9
+  - first:
+      213: -7626486887936305692
+    second: FemaleGoblin_LowLight10
+  - first:
+      213: 2486977800166224612
+    second: goblin female master sprite sheet_44
+  - first:
+      213: -345419918281829636
+    second: goblin female master sprite sheet_45
+  - first:
+      213: -3380756392186881887
+    second: goblin female master sprite sheet_46
+  - first:
+      213: -1137716427676961522
+    second: goblin female master sprite sheet_47
+  - first:
+      213: -5615403671186579229
+    second: goblin female master sprite sheet_48
+  - first:
+      213: 7373090651262143196
+    second: goblin female master sprite sheet_49
+  - first:
+      213: -7344747905672422612
+    second: goblin female master sprite sheet_50
+  - first:
+      213: 4525872068830714076
+    second: goblin female master sprite sheet_51
+  - first:
+      213: 6116013464873814124
+    second: goblin female master sprite sheet_52
+  - first:
+      213: 8273845027248540176
+    second: goblin female master sprite sheet_53
+  - first:
+      213: -3405236538646468295
+    second: goblin female master sprite sheet_54
+  - first:
+      213: -3647172633700741205
+    second: goblin female master sprite sheet_55
+  - first:
+      213: -5320664472900617682
+    second: goblin female master sprite sheet_56
+  - first:
+      213: 6834403571967978241
+    second: goblin female master sprite sheet_57
+  - first:
+      213: 4521447281967563871
+    second: goblin female master sprite sheet_58
+  - first:
+      213: 1377706141872634299
+    second: goblin female master sprite sheet_59
+  - first:
+      213: -6939070766623153999
+    second: goblin female master sprite sheet_60
+  - first:
+      213: 196016696881542555
+    second: goblin female master sprite sheet_61
+  - first:
+      213: -5168130119861324145
+    second: goblin female master sprite sheet_62
+  - first:
+      213: -1932560097986214641
+    second: goblin female master sprite sheet_63
+  - first:
+      213: 8575966463041236310
+    second: goblin female master sprite sheet_64
+  - first:
+      213: 4358454866809607963
+    second: goblin female master sprite sheet_65
+  - first:
+      213: 6344492096658013427
+    second: goblin female master sprite sheet_66
+  - first:
+      213: -3534698891366890552
+    second: goblin female master sprite sheet_67
+  - first:
+      213: -6720434414412486570
+    second: goblin female master sprite sheet_68
+  - first:
+      213: -4002356967037023996
+    second: goblin female master sprite sheet_69
+  - first:
+      213: -6900341757948018543
+    second: goblin female master sprite sheet_70
+  - first:
+      213: -3037376048991724664
+    second: goblin female master sprite sheet_71
+  - first:
+      213: -4290978752424358458
+    second: goblin female master sprite sheet_72
+  - first:
+      213: 7629819678023904897
+    second: goblin female master sprite sheet_73
+  - first:
+      213: -1978779496876295584
+    second: goblin female master sprite sheet_74
+  - first:
+      213: 7485702735692558903
+    second: goblin female master sprite sheet_75
+  - first:
+      213: -8525094355336330620
+    second: goblin female master sprite sheet_76
+  - first:
+      213: 4519736212948304170
+    second: goblin female master sprite sheet_77
+  - first:
+      213: 7428666928350062596
+    second: goblin female master sprite sheet_78
+  - first:
+      213: -122427590424926124
+    second: goblin female master sprite sheet_79
+  - first:
+      213: 408026219815318945
+    second: goblin female master sprite sheet_80
+  - first:
+      213: 8823013889162625008
+    second: goblin female master sprite sheet_81
+  - first:
+      213: -7088500989332299632
+    second: goblin female master sprite sheet_82
+  - first:
+      213: 9161485349820621782
+    second: goblin female master sprite sheet_83
+  - first:
+      213: -3074831314427514094
+    second: goblin female master sprite sheet_84
+  - first:
+      213: -5714333595404053023
+    second: goblin female master sprite sheet_85
+  - first:
+      213: 4772159119095989789
+    second: goblin female master sprite sheet_86
+  - first:
+      213: -7216121219644440526
+    second: goblin female master sprite sheet_87
+  - first:
+      213: 3873286498206255432
+    second: goblin female master sprite sheet_88
+  - first:
+      213: -559098014038596317
+    second: goblin female master sprite sheet_89
+  - first:
+      213: -2636713949179538023
+    second: goblin female master sprite sheet_90
+  - first:
+      213: -3698595834367405960
+    second: goblin female master sprite sheet_91
+  - first:
+      213: 4671411901751314401
+    second: goblin female master sprite sheet_92
+  - first:
+      213: -6722997929003695020
+    second: goblin female master sprite sheet_93
+  - first:
+      213: -2629238239625653778
+    second: goblin female master sprite sheet_94
+  - first:
+      213: 3800858014459739849
+    second: goblin female master sprite sheet_95
+  - first:
+      213: 5536532988464758767
+    second: goblin female master sprite sheet_96
+  - first:
+      213: -2344587689811687971
+    second: goblin female master sprite sheet_97
+  - first:
+      213: 8937790257903007047
+    second: goblin female master sprite sheet_98
+  - first:
+      213: -7806722157206926346
+    second: goblin female master sprite sheet_99
+  - first:
+      213: 1482939233159719675
+    second: goblin female master sprite sheet_100
+  - first:
+      213: -5696357578075091098
+    second: goblin female master sprite sheet_101
+  - first:
+      213: 2049641713393045297
+    second: goblin female master sprite sheet_102
+  - first:
+      213: -6623622331027566560
+    second: goblin female master sprite sheet_103
+  - first:
+      213: 1679874202117609657
+    second: goblin female master sprite sheet_104
+  - first:
+      213: -3533553191201129305
+    second: goblin female master sprite sheet_105
+  - first:
+      213: -1411944352920285945
+    second: goblin female master sprite sheet_106
+  - first:
+      213: 7955694490395575905
+    second: goblin female master sprite sheet_107
+  - first:
+      213: 5395040098858504234
+    second: goblin female master sprite sheet_108
+  - first:
+      213: 6060671513358343561
+    second: goblin female master sprite sheet_109
+  - first:
+      213: 9008214016089748796
+    second: goblin female master sprite sheet_110
+  - first:
+      213: 3907492734035075876
+    second: goblin female master sprite sheet_111
+  - first:
+      213: -3258599708646422213
+    second: goblin female master sprite sheet_112
+  - first:
+      213: -5385552187617734721
+    second: goblin female master sprite sheet_113
+  - first:
+      213: 2141677647418257958
+    second: goblin female master sprite sheet_114
+  - first:
+      213: 7901773913679107223
+    second: goblin female master sprite sheet_115
+  - first:
+      213: 8077436421457004973
+    second: goblin female master sprite sheet_116
+  - first:
+      213: 1433995875468854107
+    second: goblin female master sprite sheet_117
+  - first:
+      213: 7690340230935814539
+    second: goblin female master sprite sheet_118
+  - first:
+      213: 3872900407029345575
+    second: goblin female master sprite sheet_119
+  - first:
+      213: -3161581327429003179
+    second: goblin female master sprite sheet_120
+  - first:
+      213: 6048620962137772467
+    second: goblin female master sprite sheet_121
+  - first:
+      213: 8154119974827120547
+    second: goblin female master sprite sheet_122
+  - first:
+      213: -1576495279566037521
+    second: goblin female master sprite sheet_123
+  - first:
+      213: 8494759465750088043
+    second: goblin female master sprite sheet_124
+  - first:
+      213: -6405410309464751501
+    second: goblin female master sprite sheet_125
+  - first:
+      213: -2730398142920239814
+    second: goblin female master sprite sheet_126
+  - first:
+      213: 112969531617345180
+    second: goblin female master sprite sheet_127
+  - first:
+      213: -2257513995927686428
+    second: goblin female master sprite sheet_128
+  - first:
+      213: -2298179271587915125
+    second: goblin female master sprite sheet_129
+  - first:
+      213: -3010942582853353417
+    second: goblin female master sprite sheet_130
+  - first:
+      213: 4354179024562700416
+    second: goblin female master sprite sheet_131
+  - first:
+      213: -5066808225737317282
+    second: goblin female master sprite sheet_132
+  - first:
+      213: -63783781867237830
+    second: goblin female master sprite sheet_133
+  - first:
+      213: 1192231416077441691
+    second: goblin female master sprite sheet_134
+  - first:
+      213: 7437643499289224766
+    second: goblin female master sprite sheet_135
+  - first:
+      213: 4414662927941030486
+    second: goblin female master sprite sheet_136
+  - first:
+      213: 1381880947391009559
+    second: goblin female master sprite sheet_137
+  - first:
+      213: 4873208430897763079
+    second: goblin female master sprite sheet_138
+  - first:
+      213: -996534910263637559
+    second: goblin female master sprite sheet_139
+  - first:
+      213: 6763348943362765496
+    second: goblin female master sprite sheet_140
+  - first:
+      213: -3892830309815998513
+    second: goblin female master sprite sheet_141
+  - first:
+      213: -1635444555689511106
+    second: goblin female master sprite sheet_142
+  - first:
+      213: -9077991481397242063
+    second: goblin female master sprite sheet_143
+  - first:
+      213: -8303158231044570542
+    second: goblin female master sprite sheet_144
+  - first:
+      213: 4836528132850918556
+    second: goblin female master sprite sheet_145
+  - first:
+      213: 3178704441063627478
+    second: goblin female master sprite sheet_146
+  - first:
+      213: -4133075760977177499
+    second: goblin female master sprite sheet_147
+  - first:
+      213: -2323496417910157625
+    second: goblin female master sprite sheet_148
+  - first:
+      213: 8048208607589495882
+    second: goblin female master sprite sheet_149
+  - first:
+      213: -5860695628451212325
+    second: goblin female master sprite sheet_150
+  - first:
+      213: 5306933566510243386
+    second: goblin female master sprite sheet_151
+  - first:
+      213: -6497829549255877417
+    second: goblin female master sprite sheet_152
+  - first:
+      213: 7538343840682904266
+    second: goblin female master sprite sheet_153
+  - first:
+      213: 934058032683260581
+    second: goblin female master sprite sheet_154
+  - first:
+      213: 3623015299689736867
+    second: goblin female master sprite sheet_155
+  - first:
+      213: 4583215029123028605
+    second: goblin female master sprite sheet_156
+  - first:
+      213: -2338973278843509548
+    second: goblin female master sprite sheet_157
+  - first:
+      213: -4834240995261791115
+    second: goblin female master sprite sheet_158
+  - first:
+      213: 3111132780408419582
+    second: goblin female master sprite sheet_159
+  - first:
+      213: -1223240806708373361
+    second: goblin female master sprite sheet_160
+  - first:
+      213: 4405924839601089844
+    second: goblin female master sprite sheet_161
+  - first:
+      213: -281660913659854548
+    second: goblin female master sprite sheet_162
+  - first:
+      213: -3094746534627143622
+    second: goblin female master sprite sheet_163
+  - first:
+      213: 373210119060737564
+    second: goblin female master sprite sheet_164
+  - first:
+      213: -2876251268222593667
+    second: goblin female master sprite sheet_165
+  - first:
+      213: 5605377651407965437
+    second: goblin female master sprite sheet_166
+  - first:
+      213: -7700230005446503168
+    second: goblin female master sprite sheet_167
+  - first:
+      213: 5553328696434461128
+    second: goblin female master sprite sheet_168
+  - first:
+      213: -1805267197247920269
+    second: goblin female master sprite sheet_169
+  - first:
+      213: -8929762499087936347
+    second: goblin female master sprite sheet_170
+  - first:
+      213: -4342818189815418149
+    second: goblin female master sprite sheet_171
+  - first:
+      213: -4519000497896251750
+    second: goblin female master sprite sheet_172
+  - first:
+      213: -8317376025204056391
+    second: goblin female master sprite sheet_173
+  - first:
+      213: -3934408944788962885
+    second: goblin female master sprite sheet_174
+  - first:
+      213: 8958876161866652383
+    second: goblin female master sprite sheet_175
+  - first:
+      213: -1984219225539626352
+    second: goblin female master sprite sheet_176
+  - first:
+      213: -1097245830397451515
+    second: goblin female master sprite sheet_177
+  - first:
+      213: -3230237553549872777
+    second: goblin female master sprite sheet_178
+  - first:
+      213: -3567122710276767035
+    second: goblin female master sprite sheet_179
+  - first:
+      213: -6373919140717887483
+    second: goblin female master sprite sheet_180
+  - first:
+      213: 4267317916661294194
+    second: goblin female master sprite sheet_181
+  - first:
+      213: 5548055897853331572
+    second: goblin female master sprite sheet_182
+  - first:
+      213: -4898655396353891314
+    second: goblin female master sprite sheet_183
+  - first:
+      213: -8674047344411705327
+    second: goblin female master sprite sheet_184
+  - first:
+      213: -4482186295034629255
+    second: goblin female master sprite sheet_185
+  - first:
+      213: -887199627145000957
+    second: goblin female master sprite sheet_186
+  - first:
+      213: 8584233823740502615
+    second: goblin female master sprite sheet_187
+  - first:
+      213: 9179419046662261731
+    second: goblin female master sprite sheet_188
+  - first:
+      213: -5141778303640600824
+    second: goblin female master sprite sheet_189
+  - first:
+      213: -714287548762089865
+    second: goblin female master sprite sheet_190
+  - first:
+      213: -7237938834548335172
+    second: goblin female master sprite sheet_191
+  - first:
+      213: 9005262844248880166
+    second: goblin female master sprite sheet_192
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemaleGoblin_Run1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 7751
+        width: 343
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d6119048046de0800000000000000
+      internalID: -1340937715644443710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 7751
+        width: 343
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbae4f7ad1660660800000000000000
+      internalID: 7351671032795540421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run3
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 7751
+        width: 337
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259bf5a95fb68bd70800000000000000
+      internalID: 9059109353056876882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run4
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 7751
+        width: 310
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e4497f298ac3a40800000000000000
+      internalID: 5349335806581690014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run5
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 7751
+        width: 304
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9372276b252b0c0800000000000000
+      internalID: -4561492529020192293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run6
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 7751
+        width: 303
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e49179c4dded2c00800000000000000
+      internalID: 877619000575628513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run7
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 7751
+        width: 259
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107fd724d7953a540800000000000000
+      internalID: 5017952804342200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run8
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 7751
+        width: 259
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41110797896e34690800000000000000
+      internalID: -7618992602033942252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run9
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 7751
+        width: 259
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b92fc108f71a130800000000000000
+      internalID: 3576279767327087460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run10
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 7751
+        width: 304
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c14a4a9038cfb400800000000000000
+      internalID: 342212207775990209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run11
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 7751
+        width: 304
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836569275c6e6aac0800000000000000
+      internalID: -3844131496208738760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Run12
+      rect:
+        serializedVersion: 2
+        x: 5518
+        y: 7751
+        width: 304
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c00c15b85177bb0800000000000000
+      internalID: -4938454778272281599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7284
+        width: 270
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f284a837e276940800000000000000
+      internalID: 5289247361146040214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7284
+        width: 265
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7df01d381df5240800000000000000
+      internalID: 4782771693369153475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle3
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 7284
+        width: 270
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3870368b1b92ff4e0800000000000000
+      internalID: -1945790670721316989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle4
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 7284
+        width: 264
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a7f092eb644dc20800000000000000
+      internalID: 3230284615278099037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle5
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 7284
+        width: 264
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c5b6d33d8ae36c0800000000000000
+      internalID: -4161703380421747562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle6
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 7284
+        width: 265
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87868cfa682cc52f0800000000000000
+      internalID: -982696734943057800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle7
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 7284
+        width: 259
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135573818188835a0800000000000000
+      internalID: -6541328821688773327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle8
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 7284
+        width: 258
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c317fd28540357d0800000000000000
+      internalID: -2930994155713260604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle9
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 7284
+        width: 265
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59409dd68e7169b0800000000000000
+      internalID: -5088646986244011685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_Idle10
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 7284
+        width: 259
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c11d6ef1516210800000000000000
+      internalID: 1324429918617060052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6739
+        width: 208
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be343296031dc9070800000000000000
+      internalID: 8114590634467345387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 6742
+        width: 208
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cda357e14b533d0800000000000000
+      internalID: -3227475515032282023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight3
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 6739
+        width: 214
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086058ffbcf861a0800000000000000
+      internalID: -6815920134590273528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight4
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 6739
+        width: 213
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb81699dac713e60800000000000000
+      internalID: 7940264703075388350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight5
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 6739
+        width: 337
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c30158ccdb2970800000000000000
+      internalID: 8731315055498611034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 6739
+        width: 338
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d29a591d0881f20800000000000000
+      internalID: 3393603956871081229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight6
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 6739
+        width: 208
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c538aea07aeb70800000000000000
+      internalID: 8929073106664145758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight7
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 6739
+        width: 214
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce7bc3d0f479280800000000000000
+      internalID: -9036667209023755179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight8
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 6739
+        width: 349
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5fcf8943176c400800000000000000
+      internalID: 344086892259374552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight9
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 6739
+        width: 337
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035270523aa84030800000000000000
+      internalID: 3479217845218464514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight10
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 6739
+        width: 332
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9405b31baf1efa970800000000000000
+      internalID: 8768475466345173065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_MiddleLight11
+      rect:
+        serializedVersion: 2
+        x: 5586
+        y: 6739
+        width: 332
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d84ad3ee71ee9b0800000000000000
+      internalID: -5049071820231897822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 6306
+        width: 265
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db860306f7e599a60800000000000000
+      internalID: 7681274540624734397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 6306
+        width: 265
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cd3b1533f22f130800000000000000
+      internalID: 3598990949683026948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight3
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 6306
+        width: 264
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5114619f42b5c84f0800000000000000
+      internalID: -825184417359707883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight4
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 6306
+        width: 264
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c097eb2447aec9a0800000000000000
+      internalID: -6210842924861124415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight5
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 6306
+        width: 287
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f98db6ad4238e80800000000000000
+      internalID: -8177651977843859665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight6
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 6306
+        width: 287
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf32d909275f55e0800000000000000
+      internalID: -1918719082466492489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight7
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 6306
+        width: 275
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1595d010f9ab845e0800000000000000
+      internalID: -1925083648620668591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight8
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 6306
+        width: 281
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b717433470b61080800000000000000
+      internalID: -9216985574244149327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight9
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 6306
+        width: 310
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd13820a802e5f70800000000000000
+      internalID: 9177808867747372483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin_LowLight10
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 6306
+        width: 315
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d1601596492690800000000000000
+      internalID: -7626486887936305692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5799
+        width: 264
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b037f125838220800000000000000
+      internalID: 2486977800166224612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 5799
+        width: 270
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf297781a62d43bf0800000000000000
+      internalID: -345419918281829636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 5799
+        width: 265
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d19b29f32511d0800000000000000
+      internalID: -3380756392186881887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 5799
+        width: 258
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e053039dfe40630f0800000000000000
+      internalID: -1137716427676961522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 5799
+        width: 264
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ef7cdc141212b0800000000000000
+      internalID: -5615403671186579229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 5799
+        width: 309
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdacb3d02ea725660800000000000000
+      internalID: 7373090651262143196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 5799
+        width: 315
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bd995a1b6321a90800000000000000
+      internalID: -7344747905672422612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 5799
+        width: 332
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd85481eaa02fce30800000000000000
+      internalID: 4525872068830714076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 5799
+        width: 326
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c684f4f97d170e450800000000000000
+      internalID: 6116013464873814124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 5799
+        width: 332
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a08cf273a92d270800000000000000
+      internalID: 8273845027248540176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5276
+        width: 253
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ebc9e86b2eb0d0800000000000000
+      internalID: -3405236538646468295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 5276
+        width: 253
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafcdbd20d3a26dc0800000000000000
+      internalID: -3647172633700741205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 5276
+        width: 248
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ab7bb1ad33926b0800000000000000
+      internalID: -5320664472900617682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 5276
+        width: 253
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10befc6a6dda8de50800000000000000
+      internalID: 6834403571967978241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 5276
+        width: 321
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f540558e8586fbe30800000000000000
+      internalID: 4521447281967563871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 5276
+        width: 315
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93137cf689e1310800000000000000
+      internalID: 1377706141872634299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 5344
+        width: 332
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0212c07e773bf90800000000000000
+      internalID: -6939070766623153999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 5344
+        width: 332
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b957ba3b52468b200800000000000000
+      internalID: 196016696881542555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 5355
+        width: 332
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863ba4b90d1748b0800000000000000
+      internalID: -5168130119861324145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_63
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 5355
+        width: 332
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05007c74da2e25e0800000000000000
+      internalID: -1932560097986214641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_64
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 5293
+        width: 309
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6c3b8f04f30770800000000000000
+      internalID: 8575966463041236310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_65
+      rect:
+        serializedVersion: 2
+        x: 5518
+        y: 5293
+        width: 315
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1752c9fb975c7c30800000000000000
+      internalID: 4358454866809607963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_66
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 5276
+        width: 253
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf29582f92c0850800000000000000
+      internalID: 6344492096658013427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_67
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 5276
+        width: 253
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30c10061a32fec0800000000000000
+      internalID: -3534698891366890552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_68
+      rect:
+        serializedVersion: 2
+        x: 7048
+        y: 5276
+        width: 321
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65822a8a1883cb2a0800000000000000
+      internalID: -6720434414412486570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_69
+      rect:
+        serializedVersion: 2
+        x: 7543
+        y: 5276
+        width: 315
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c27b3b85c478c0800000000000000
+      internalID: -4002356967037023996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_70
+      rect:
+        serializedVersion: 2
+        x: 8066
+        y: 5276
+        width: 248
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c6b01bbf0d30a0800000000000000
+      internalID: -6900341757948018543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_71
+      rect:
+        serializedVersion: 2
+        x: 8556
+        y: 5276
+        width: 253
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b919e739219d5d0800000000000000
+      internalID: -3037376048991724664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_72
+      rect:
+        serializedVersion: 2
+        x: 9051
+        y: 5276
+        width: 247
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4ffa2f816374c0800000000000000
+      internalID: -4290978752424358458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4815
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e66e8929092e960800000000000000
+      internalID: 7629819678023904897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_74
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 4815
+        width: 264
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06abcd71886f984e0800000000000000
+      internalID: -1978779496876295584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 4821
+        width: 270
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ff172afe82e760800000000000000
+      internalID: 7485702735692558903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4832
+        width: 293
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4828d790ad7c0b980800000000000000
+      internalID: -8525094355336330620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 4832
+        width: 292
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c04b932459be30800000000000000
+      internalID: 4519736212948304170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 4832
+        width: 287
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4086ffa663de71760800000000000000
+      internalID: 7428666928350062596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 4832
+        width: 293
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e30251cc0d4ef0800000000000000
+      internalID: -122427590424926124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_80
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 4832
+        width: 287
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a533236fa999a500800000000000000
+      internalID: 408026219815318945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_81
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 4832
+        width: 292
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff30e7c264a17a70800000000000000
+      internalID: 8823013889162625008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4337
+        width: 265
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090e7dc18e590ad90800000000000000
+      internalID: -7088500989332299632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_83
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 4337
+        width: 270
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e003d262242f70800000000000000
+      internalID: 9161485349820621782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 4337
+        width: 264
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fc4fe5310455d0800000000000000
+      internalID: -3074831314427514094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 4337
+        width: 299
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e55cddeedb92b0b0800000000000000
+      internalID: -5714333595404053023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 4337
+        width: 298
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d168b515f6d1a3240800000000000000
+      internalID: 4772159119095989789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 4337
+        width: 298
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304feebbff2bdb90800000000000000
+      internalID: -7216121219644440526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_88
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 4337
+        width: 304
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84986ee6c8da0c530800000000000000
+      internalID: 3873286498206255432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_89
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 4337
+        width: 304
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3256a96815fad38f0800000000000000
+      internalID: -559098014038596317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_90
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 4337
+        width: 304
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99516d412a2886bd0800000000000000
+      internalID: -2636713949179538023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_91
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 4337
+        width: 303
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8709ac44fa2fbacc0800000000000000
+      internalID: -3698595834367405960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_92
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 4337
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74b6bdf5034d040800000000000000
+      internalID: 4671411901751314401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_93
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3803
+        width: 242
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544c08e00d13b2a0800000000000000
+      internalID: -6722997929003695020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_94
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3803
+        width: 236
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee15d3950c1138bd0800000000000000
+      internalID: -2629238239625653778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3803
+        width: 237
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb191f93c5fb430800000000000000
+      internalID: 3800858014459739849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 3803
+        width: 231
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef7ca05b67b5dc40800000000000000
+      internalID: 5536532988464758767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_97
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3803
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd545041be9567fd0800000000000000
+      internalID: -2344587689811687971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_98
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3803
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745714792e8690c70800000000000000
+      internalID: 8937790257903007047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 3864
+        width: 326
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb828f4f83f8a390800000000000000
+      internalID: -7806722157206926346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_100
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3864
+        width: 326
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa9f72065749410800000000000000
+      internalID: 1482939233159719675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_101
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 3887
+        width: 281
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fca3d96f872f0b0800000000000000
+      internalID: -5696357578075091098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_102
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 3887
+        width: 281
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f8d93674ac17c10800000000000000
+      internalID: 2049641713393045297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_103
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 3819
+        width: 304
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d1c8559a2414a0800000000000000
+      internalID: -6623622331027566560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_104
+      rect:
+        serializedVersion: 2
+        x: 5586
+        y: 3819
+        width: 303
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8109cbfac105710800000000000000
+      internalID: 1679874202117609657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_105
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 3808
+        width: 253
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac328b181c46fec0800000000000000
+      internalID: -3533553191201129305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_106
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 3808
+        width: 259
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d41918714c76ce0800000000000000
+      internalID: -1411944352920285945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_107
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 3808
+        width: 292
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1668f89ecfd486e60800000000000000
+      internalID: 7955694490395575905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_108
+      rect:
+        serializedVersion: 2
+        x: 7543
+        y: 3808
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a201371c2680fda40800000000000000
+      internalID: 5395040098858504234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_109
+      rect:
+        serializedVersion: 2
+        x: 8072
+        y: 3808
+        width: 231
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d9d0e61a4db1450800000000000000
+      internalID: 6060671513358343561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_110
+      rect:
+        serializedVersion: 2
+        x: 8561
+        y: 3808
+        width: 231
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3579b98bea930d70800000000000000
+      internalID: 9008214016089748796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_111
+      rect:
+        serializedVersion: 2
+        x: 9056
+        y: 3808
+        width: 231
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423a49650f33a3630800000000000000
+      internalID: 3907492734035075876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_112
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3313
+        width: 259
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3940fc64d027c2d0800000000000000
+      internalID: -3258599708646422213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_113
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3313
+        width: 253
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf87b9b1dca245b0800000000000000
+      internalID: -5385552187617734721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3313
+        width: 248
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62272c52974c8bd10800000000000000
+      internalID: 2141677647418257958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 3313
+        width: 248
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7949a44528db8ad60800000000000000
+      internalID: 7901773913679107223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_116
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3313
+        width: 321
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da94fb411a1d81070800000000000000
+      internalID: 8077436421457004973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_117
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3313
+        width: 315
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5342bea6a396e310800000000000000
+      internalID: 1433995875468854107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_118
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3375
+        width: 326
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8123d2e1b399ba60800000000000000
+      internalID: 7690340230935814539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_119
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 3375
+        width: 326
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2373966e4fb530800000000000000
+      internalID: 3872900407029345575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_120
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 3403
+        width: 326
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5581612988ecf14d0800000000000000
+      internalID: -3161581327429003179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_121
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 3403
+        width: 326
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11435d7b401f350800000000000000
+      internalID: 6048620962137772467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_122
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 3336
+        width: 309
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7dc7b2ae0492170800000000000000
+      internalID: 8154119974827120547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_123
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 3336
+        width: 309
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd26755e92f1ae0800000000000000
+      internalID: -1576495279566037521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_124
+      rect:
+        serializedVersion: 2
+        x: 6109
+        y: 3313
+        width: 253
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69cb681ab273e570800000000000000
+      internalID: 8494759465750088043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_125
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 3313
+        width: 247
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3728ab7c2496b17a0800000000000000
+      internalID: -6405410309464751501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_126
+      rect:
+        serializedVersion: 2
+        x: 7059
+        y: 3313
+        width: 321
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a355ad3fa5dab1ad0800000000000000
+      internalID: -2730398142920239814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_127
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 3313
+        width: 315
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e7e72c039519100800000000000000
+      internalID: 112969531617345180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_128
+      rect:
+        serializedVersion: 2
+        x: 8078
+        y: 3313
+        width: 253
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f1454bf2bba0e0800000000000000
+      internalID: -2257513995927686428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_129
+      rect:
+        serializedVersion: 2
+        x: 8567
+        y: 3313
+        width: 247
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a16d6f02a3b10e0800000000000000
+      internalID: -2298179271587915125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_130
+      rect:
+        serializedVersion: 2
+        x: 9062
+        y: 3313
+        width: 247
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730cded6cabf636d0800000000000000
+      internalID: -3010942582853353417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_131
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2874
+        width: 264
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080448fd0c62d6c30800000000000000
+      internalID: 4354179024562700416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_132
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2874
+        width: 270
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5466e783c41fa9b0800000000000000
+      internalID: -5066808225737317282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2874
+        width: 264
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4f530df46d1ff0800000000000000
+      internalID: -63783781867237830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2874
+        width: 264
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a5b5df728ab8010800000000000000
+      internalID: 1192231416077441691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2874
+        width: 327
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36a0253b51d73760800000000000000
+      internalID: 7437643499289224766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_136
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 2874
+        width: 321
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652d2070b88044d30800000000000000
+      internalID: 4414662927941030486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_137
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2874
+        width: 287
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131f1f666d6d2310800000000000000
+      internalID: 1381880947391009559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_138
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2874
+        width: 292
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039910af3d11a340800000000000000
+      internalID: 4873208430897763079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_139
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 2874
+        width: 405
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9c57b67c89b22f0800000000000000
+      internalID: -996534910263637559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_140
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2874
+        width: 405
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2b62db70e3cdd50800000000000000
+      internalID: 6763348943362765496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_141
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 2874
+        width: 405
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc72b845573e9f9c0800000000000000
+      internalID: -3892830309815998513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_142
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 2874
+        width: 405
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b74077dbbd49e0800000000000000
+      internalID: -1635444555689511106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_143
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2363
+        width: 270
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1379b4d48de740280800000000000000
+      internalID: -9077991481397242063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_144
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2363
+        width: 265
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524ab4b49145cc80800000000000000
+      internalID: -8303158231044570542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_145
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2363
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9423c836bcce1340800000000000000
+      internalID: 4836528132850918556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_146
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2368
+        width: 259
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dadd8ff8d60d1c20800000000000000
+      internalID: 3178704441063627478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_147
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 2374
+        width: 259
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5649d2d4e7d54a6c0800000000000000
+      internalID: -4133075760977177499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2374
+        width: 259
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce829d715841cfd0800000000000000
+      internalID: -2323496417910157625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_149
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 2374
+        width: 320
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44fc9d561bf0bf60800000000000000
+      internalID: 8048208607589495882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_150
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 2374
+        width: 326
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd31b719060aaaea0800000000000000
+      internalID: -5860695628451212325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_151
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 2374
+        width: 326
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e907e16f306a940800000000000000
+      internalID: 5306933566510243386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_152
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 2374
+        width: 327
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1191b37213d5a0800000000000000
+      internalID: -6497829549255877417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_153
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 2374
+        width: 321
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca88a288c39d9860800000000000000
+      internalID: 7538343840682904266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_154
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 2374
+        width: 320
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa9fa5f4d076fc00800000000000000
+      internalID: 934058032683260581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_155
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1879
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaefc13839874230800000000000000
+      internalID: 3623015299689736867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_156
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1879
+        width: 264
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761c1c39c9da9f30800000000000000
+      internalID: 4583215029123028605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_157
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1884
+        width: 265
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e66ff13c4a8fd0800000000000000
+      internalID: -2338973278843509548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_158
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1884
+        width: 265
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744ace7d6359ecb0800000000000000
+      internalID: -4834240995261791115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_159
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1884
+        width: 303
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef43151c7c6fc2b20800000000000000
+      internalID: 3111132780408419582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_160
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1884
+        width: 304
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f889261a7fc260fe0800000000000000
+      internalID: -1223240806708373361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_161
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1884
+        width: 360
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2e7b4c4df42d30800000000000000
+      internalID: 4405924839601089844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_162
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 1884
+        width: 360
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21413e24e6571cf0800000000000000
+      internalID: -281660913659854548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_163
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1389
+        width: 270
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a309da56c604d05d0800000000000000
+      internalID: -3094746534627143622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_164
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1389
+        width: 270
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e423d30a8ed2500800000000000000
+      internalID: 373210119060737564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_165
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1389
+        width: 337
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7553d8e5b08518d0800000000000000
+      internalID: -2876251268222593667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_166
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1389
+        width: 337
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc510864d4acd40800000000000000
+      internalID: 5605377651407965437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_167
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1389
+        width: 337
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0059e8c8b99432590800000000000000
+      internalID: -7700230005446503168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_168
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 1389
+        width: 343
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c985ffc603611d40800000000000000
+      internalID: 5553328696434461128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_169
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1389
+        width: 343
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3776f5f7c0762f6e0800000000000000
+      internalID: -1805267197247920269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_170
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1389
+        width: 343
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45249a15c131480800000000000000
+      internalID: -8929762499087936347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_171
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 1389
+        width: 337
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd272f79dd53bb3c0800000000000000
+      internalID: -4342818189815418149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_172
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1389
+        width: 338
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e94176df84941c0800000000000000
+      internalID: -4519000497896251750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_173
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 1389
+        width: 338
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9c5a829eb29c80800000000000000
+      internalID: -8317376025204056391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_174
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 1389
+        width: 332
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb10cbcf8eb2669c0800000000000000
+      internalID: -3934408944788962885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_175
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 894
+        width: 270
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdad6ce2762545c70800000000000000
+      internalID: 8958876161866652383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_176
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 894
+        width: 265
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab5319023a674e0800000000000000
+      internalID: -1984219225539626352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_177
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 894
+        width: 264
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503a1ef0bbcc5c0f0800000000000000
+      internalID: -1097245830397451515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_178
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 894
+        width: 264
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77178804f04eb23d0800000000000000
+      internalID: -3230237553549872777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_179
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 894
+        width: 287
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c289bf5bc80f7ec0800000000000000
+      internalID: -3567122710276767035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_180
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 894
+        width: 287
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500827edf4a4b87a0800000000000000
+      internalID: -6373919140717887483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_181
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 894
+        width: 320
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274a146390f883b30800000000000000
+      internalID: 4267317916661294194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_182
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 894
+        width: 315
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4780f89b177aefc40800000000000000
+      internalID: 5548055897853331572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_183
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 894
+        width: 326
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04a6470fda740cb0800000000000000
+      internalID: -4898655396353891314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_184
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 894
+        width: 332
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1108b67b5e79f9780800000000000000
+      internalID: -8674047344411705327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_185
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 894
+        width: 326
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733653ff431cc1c0800000000000000
+      internalID: -4482186295034629255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_186
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 894
+        width: 327
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308c923c3a800b3f0800000000000000
+      internalID: -887199627145000957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_187
+      rect:
+        serializedVersion: 2
+        x: 5985
+        y: 894
+        width: 321
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75222f47e23512770800000000000000
+      internalID: 8584233823740502615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_188
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 894
+        width: 321
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb42c00df8d36f70800000000000000
+      internalID: 9179419046662261731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_189
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 894
+        width: 281
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ff0b900ebb4a8b0800000000000000
+      internalID: -5141778303640600824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_190
+      rect:
+        serializedVersion: 2
+        x: 7493
+        y: 894
+        width: 286
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761d8442475616f0800000000000000
+      internalID: -714287548762089865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_191
+      rect:
+        serializedVersion: 2
+        x: 7982
+        y: 894
+        width: 287
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdddbc6afcad8b90800000000000000
+      internalID: -7237938834548335172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin female master sprite sheet_192
+      rect:
+        serializedVersion: 2
+        x: 8477
+        y: 894
+        width: 287
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247a7c48de19fc70800000000000000
+      internalID: 9005262844248880166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5267 @@
+fileFormatVersion: 2
+guid: e1b6f9bd87a16574f8edb3b449f76541
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7090204941148843279
+    second: AverageJoe_0
+  - first:
+      213: -7910700204314746434
+    second: AverageJoe_1
+  - first:
+      213: 136607704149335293
+    second: AverageJoe_2
+  - first:
+      213: -3650515344489948008
+    second: AverageJoe_3
+  - first:
+      213: -5921376226530255813
+    second: AverageJoe_4
+  - first:
+      213: 2243779218025340608
+    second: AverageJoe_5
+  - first:
+      213: 9182973984045175070
+    second: AverageJoe_6
+  - first:
+      213: 4961094287058136994
+    second: AverageJoe_7
+  - first:
+      213: -5830703562530913531
+    second: AverageJoe_8
+  - first:
+      213: 3698599616582381464
+    second: AverageJoe_9
+  - first:
+      213: 4541128979252323683
+    second: AverageJoe_10
+  - first:
+      213: 964991926780622238
+    second: AverageJoe_11
+  - first:
+      213: 1071044166253996573
+    second: AverageJoe_12
+  - first:
+      213: 2078896513819387394
+    second: AverageJoe_13
+  - first:
+      213: -3965804763096640673
+    second: AverageJoe_14
+  - first:
+      213: -3091241203024185526
+    second: AverageJoe_15
+  - first:
+      213: 7291684623820203147
+    second: AverageJoe_16
+  - first:
+      213: 5613448309583057474
+    second: AverageJoe_681
+  - first:
+      213: 7443326272432826865
+    second: AverageJoe_18
+  - first:
+      213: 3771100259065520466
+    second: AverageJoe_19
+  - first:
+      213: 8902978016339987020
+    second: AverageJoe_20
+  - first:
+      213: -2627419223354767916
+    second: AverageJoe_21
+  - first:
+      213: -6752844149637865328
+    second: AverageJoe_22
+  - first:
+      213: -5594140325768898852
+    second: AverageJoe_23
+  - first:
+      213: -7919032373044328522
+    second: AverageJoe_24
+  - first:
+      213: 3146919864355698843
+    second: AverageJoe_25
+  - first:
+      213: 2338520935038269165
+    second: AverageJoe_26
+  - first:
+      213: 8716749942534182528
+    second: AverageJoe_27
+  - first:
+      213: -5018575735675495421
+    second: AverageJoe_28
+  - first:
+      213: -3281410628034211976
+    second: AverageJoe_29
+  - first:
+      213: 7182459869541021592
+    second: AverageJoe_30
+  - first:
+      213: -6708477519308826458
+    second: AverageJoe_31
+  - first:
+      213: -1449431314696577104
+    second: AverageJoe_32
+  - first:
+      213: -6828033269635456971
+    second: AverageJoe_33
+  - first:
+      213: 2964709310712966983
+    second: AverageJoe_34
+  - first:
+      213: 5561036324595805871
+    second: AverageJoe_35
+  - first:
+      213: -3893796207214935456
+    second: AverageJoe_36
+  - first:
+      213: -4369205763184352709
+    second: AverageJoe_37
+  - first:
+      213: -5054030692863193133
+    second: AverageJoe_38
+  - first:
+      213: 7307806438000061473
+    second: AverageJoe_39
+  - first:
+      213: -7326794243620422418
+    second: AverageJoe_40
+  - first:
+      213: -9202954223028963691
+    second: AverageJoe_41
+  - first:
+      213: 3641357485278328111
+    second: AverageJoe_42
+  - first:
+      213: -1324331556987798793
+    second: AverageJoe_43
+  - first:
+      213: -3807255105113428635
+    second: AverageJoe_44
+  - first:
+      213: 3309753846834273766
+    second: AverageJoe_45
+  - first:
+      213: -4975869618866564550
+    second: AverageJoe_46
+  - first:
+      213: 229799878982363360
+    second: AverageJoe_47
+  - first:
+      213: 7384205207969008751
+    second: AverageJoe_48
+  - first:
+      213: 6661073298002165854
+    second: AverageJoe_49
+  - first:
+      213: -3318535255557418298
+    second: AverageJoe_50
+  - first:
+      213: 7241731056457144785
+    second: AverageJoe_51
+  - first:
+      213: -8741814219473114002
+    second: AverageJoe_52
+  - first:
+      213: -3195174436337579612
+    second: AverageJoe_53
+  - first:
+      213: -1893735301628480346
+    second: AverageJoe_54
+  - first:
+      213: 8438909661339626900
+    second: AverageJoe_55
+  - first:
+      213: 3247976600132919722
+    second: AverageJoe_56
+  - first:
+      213: -8817628893917624137
+    second: AverageJoe_57
+  - first:
+      213: -6640043383759624857
+    second: AverageJoe_58
+  - first:
+      213: -8668081311250157244
+    second: AverageJoe_59
+  - first:
+      213: 7006945906508107803
+    second: AverageJoe_60
+  - first:
+      213: 3800283695009495467
+    second: AverageJoe_61
+  - first:
+      213: -7226095548521413743
+    second: AverageJoe_62
+  - first:
+      213: 8277266026212587628
+    second: AverageJoe_63
+  - first:
+      213: -7116715890664799579
+    second: AverageJoe_64
+  - first:
+      213: -5897616008592725678
+    second: AverageJoe_65
+  - first:
+      213: 4956760322227563432
+    second: AverageJoe_66
+  - first:
+      213: -2666549105294436005
+    second: AverageJoe_67
+  - first:
+      213: 5266760550268519933
+    second: AverageJoe_68
+  - first:
+      213: -6712014740121831932
+    second: AverageJoe_69
+  - first:
+      213: 5968248968324166959
+    second: AverageJoe_70
+  - first:
+      213: 6434010238438305595
+    second: AverageJoe_71
+  - first:
+      213: 5593315367076421500
+    second: AverageJoe_72
+  - first:
+      213: 4737160781676400706
+    second: AverageJoe_73
+  - first:
+      213: -8462878866580343312
+    second: AverageJoe_74
+  - first:
+      213: 6634933733586047128
+    second: AverageJoe_75
+  - first:
+      213: -2919797014928959297
+    second: AverageJoe_76
+  - first:
+      213: -6350774189988507463
+    second: AverageJoe_77
+  - first:
+      213: -4797412231753499033
+    second: AverageJoe_78
+  - first:
+      213: -1726472364426236799
+    second: AverageJoe_79
+  - first:
+      213: 2678948232011346892
+    second: AverageJoe_80
+  - first:
+      213: 7072459920553048605
+    second: AverageJoe_81
+  - first:
+      213: -6180255379967016232
+    second: AverageJoe_82
+  - first:
+      213: 1242787758796788842
+    second: AverageJoe_83
+  - first:
+      213: -4685153698565230330
+    second: AverageJoe_84
+  - first:
+      213: -8244668225850085032
+    second: AverageJoe_85
+  - first:
+      213: 7162699929283622886
+    second: AverageJoe_86
+  - first:
+      213: -1599710801310256182
+    second: AverageJoe_87
+  - first:
+      213: 6799389076471194715
+    second: AverageJoe_88
+  - first:
+      213: -1956186534225110856
+    second: AverageJoe_89
+  - first:
+      213: 6007827791234871696
+    second: AverageJoe_90
+  - first:
+      213: -5191508107202425344
+    second: AverageJoe_91
+  - first:
+      213: 762151423955557702
+    second: AverageJoe_92
+  - first:
+      213: -6881526086298951446
+    second: AverageJoe_93
+  - first:
+      213: 4581900990045445956
+    second: AverageJoe_94
+  - first:
+      213: -8980891038539480548
+    second: AverageJoe_95
+  - first:
+      213: -7945403935808473522
+    second: AverageJoe_96
+  - first:
+      213: -3476515549676914398
+    second: AverageJoe_97
+  - first:
+      213: -6382922803746654200
+    second: AverageJoe_98
+  - first:
+      213: 2547508927090831927
+    second: AverageJoe_99
+  - first:
+      213: 3311469920456656325
+    second: AverageJoe_100
+  - first:
+      213: -3080231011070966381
+    second: AverageJoe_101
+  - first:
+      213: -4799577981043762699
+    second: AverageJoe_102
+  - first:
+      213: 4831001432723348096
+    second: AverageJoe_103
+  - first:
+      213: 1881949132262802004
+    second: AverageJoe_104
+  - first:
+      213: 222076525588569557
+    second: AverageJoe_105
+  - first:
+      213: -7071903835193700476
+    second: AverageJoe_106
+  - first:
+      213: 1503163326131099455
+    second: AverageJoe_107
+  - first:
+      213: -5518821071428611592
+    second: AverageJoe_108
+  - first:
+      213: 3799535847508361339
+    second: AverageJoe_109
+  - first:
+      213: -7322028855039156502
+    second: AverageJoe_110
+  - first:
+      213: -4982638869987655188
+    second: AverageJoe_111
+  - first:
+      213: -9077504275711745198
+    second: AverageJoe_112
+  - first:
+      213: 2167138672443019241
+    second: AverageJoe_113
+  - first:
+      213: 846831943452214529
+    second: AverageJoe_114
+  - first:
+      213: -233490852191588771
+    second: AverageJoe_115
+  - first:
+      213: -9128914490658272408
+    second: AverageJoe_116
+  - first:
+      213: -44499316538387864
+    second: AverageJoe_117
+  - first:
+      213: -5143350982240174383
+    second: AverageJoe_118
+  - first:
+      213: -6210132460793080366
+    second: AverageJoe_119
+  - first:
+      213: 678382550285140210
+    second: AverageJoe_120
+  - first:
+      213: -7689135170817900404
+    second: AverageJoe_121
+  - first:
+      213: -658148159883670968
+    second: AverageJoe_122
+  - first:
+      213: 4677412185047796771
+    second: AverageJoe_123
+  - first:
+      213: -6899657288415613360
+    second: AverageJoe_124
+  - first:
+      213: 552023298134293116
+    second: AverageJoe_125
+  - first:
+      213: 6802990191797279800
+    second: AverageJoe_126
+  - first:
+      213: -4407567226143801212
+    second: AverageJoe_127
+  - first:
+      213: -6142530814271431314
+    second: AverageJoe_128
+  - first:
+      213: 6617158286123411297
+    second: AverageJoe_129
+  - first:
+      213: -7193903147398834419
+    second: AverageJoe_130
+  - first:
+      213: -5611188958485528357
+    second: AverageJoe_131
+  - first:
+      213: 6326950573363846746
+    second: AverageJoe_132
+  - first:
+      213: -2991228268086196884
+    second: AverageJoe_133
+  - first:
+      213: -3726779499685294784
+    second: AverageJoe_134
+  - first:
+      213: -2938800707750461846
+    second: AverageJoe_135
+  - first:
+      213: 7725504564859797502
+    second: AverageJoe_136
+  - first:
+      213: 518468486290693508
+    second: AverageJoe_137
+  - first:
+      213: -2854752998228487326
+    second: AverageJoe_138
+  - first:
+      213: -4445858017327557708
+    second: AverageJoe_139
+  - first:
+      213: 3164700645334892576
+    second: AverageJoe_140
+  - first:
+      213: -5958589251021557815
+    second: AverageJoe_141
+  - first:
+      213: -2720020482413537851
+    second: AverageJoe_142
+  - first:
+      213: 3964083148931543461
+    second: AverageJoe_143
+  - first:
+      213: 1380023608935389299
+    second: AverageJoe_144
+  - first:
+      213: 3938877384550289011
+    second: AverageJoe_145
+  - first:
+      213: 6409277711261120799
+    second: AverageJoe_146
+  - first:
+      213: 2454856400562970399
+    second: AverageJoe_147
+  - first:
+      213: 2034406820626467895
+    second: AverageJoe_148
+  - first:
+      213: 497493048977682672
+    second: AverageJoe_149
+  - first:
+      213: -4680480797143644540
+    second: AverageJoe_150
+  - first:
+      213: 6481286547676713441
+    second: AverageJoe_151
+  - first:
+      213: -630404923090868825
+    second: AverageJoe_152
+  - first:
+      213: -7255341878265436995
+    second: AverageJoe_153
+  - first:
+      213: -751004732255262050
+    second: AverageJoe_154
+  - first:
+      213: 8148191020597463184
+    second: AverageJoe_155
+  - first:
+      213: 4988668497268489344
+    second: AverageJoe_156
+  - first:
+      213: 250224705408962377
+    second: AverageJoe_157
+  - first:
+      213: 8474980404712931999
+    second: AverageJoe_158
+  - first:
+      213: 111155104430865440
+    second: AverageJoe_159
+  - first:
+      213: -1714140871581404992
+    second: AverageJoe_160
+  - first:
+      213: 5605036662990159513
+    second: AverageJoe_161
+  - first:
+      213: 2152656258190888176
+    second: AverageJoe_162
+  - first:
+      213: -2037174169316968680
+    second: AverageJoe_163
+  - first:
+      213: -2662065072207911773
+    second: AverageJoe_164
+  - first:
+      213: -2435925264267854431
+    second: AverageJoe_165
+  - first:
+      213: -2141516865742784747
+    second: AverageJoe_166
+  - first:
+      213: 8465145998023904934
+    second: AverageJoe_167
+  - first:
+      213: -796734357797586823
+    second: AverageJoe_168
+  - first:
+      213: -8516749584161635801
+    second: AverageJoe_169
+  - first:
+      213: -1393081393865752923
+    second: AverageJoe_170
+  - first:
+      213: -9138624634740307418
+    second: AverageJoe_171
+  - first:
+      213: 5312604307020402748
+    second: AverageJoe_172
+  - first:
+      213: -2692033256053949055
+    second: AverageJoe_173
+  - first:
+      213: -126157723329062573
+    second: AverageJoe_174
+  - first:
+      213: 4114656656102050736
+    second: AverageJoe_175
+  - first:
+      213: -5999463798917010904
+    second: AverageJoe_176
+  - first:
+      213: -1774431984189062556
+    second: AverageJoe_177
+  - first:
+      213: 6817630643703660778
+    second: AverageJoe_178
+  - first:
+      213: -1811712599711745116
+    second: AverageJoe_179
+  - first:
+      213: 7157925923882936156
+    second: AverageJoe_180
+  - first:
+      213: -3229382014156359900
+    second: AverageJoe_181
+  - first:
+      213: -4509600251145542379
+    second: AverageJoe_182
+  - first:
+      213: 7106229115349256057
+    second: AverageJoe_183
+  - first:
+      213: 5497613607511210694
+    second: AverageJoe_184
+  - first:
+      213: 7888135175637530178
+    second: AverageJoe_185
+  - first:
+      213: 8663157768873633218
+    second: AverageJoe_186
+  - first:
+      213: -5619739135314200765
+    second: AverageJoe_187
+  - first:
+      213: 5701922612059175676
+    second: AverageJoe_188
+  - first:
+      213: 3198552873991095528
+    second: AverageJoe_189
+  - first:
+      213: -8584908993411217367
+    second: AverageJoe_190
+  - first:
+      213: 283620795891095133
+    second: AverageJoe_191
+  - first:
+      213: -5251199213757688394
+    second: AverageJoe_192
+  - first:
+      213: -507993234042940076
+    second: AverageJoe_193
+  - first:
+      213: -1816767929467636339
+    second: AverageJoe_194
+  - first:
+      213: 494682754067005799
+    second: AverageJoe_195
+  - first:
+      213: -5894438534021177718
+    second: AverageJoe_196
+  - first:
+      213: 3798708810166350484
+    second: AverageJoe_197
+  - first:
+      213: -8564419278889740643
+    second: AverageJoe_198
+  - first:
+      213: 8774228533383128753
+    second: AverageJoe_199
+  - first:
+      213: -2350635230306001578
+    second: AverageJoe_200
+  - first:
+      213: -782856393461357301
+    second: AverageJoe_201
+  - first:
+      213: -4835852165792705700
+    second: AverageJoe_202
+  - first:
+      213: -1470965725300935558
+    second: AverageJoe_203
+  - first:
+      213: 8289703491953419927
+    second: AverageJoe_204
+  - first:
+      213: -7735730907863836747
+    second: AverageJoe_205
+  - first:
+      213: 3696601483362296427
+    second: AverageJoe_206
+  - first:
+      213: 686598840333651678
+    second: AverageJoe_207
+  - first:
+      213: -1415219189005978167
+    second: AverageJoe_208
+  - first:
+      213: -7603215642568045407
+    second: AverageJoe_209
+  - first:
+      213: -8770090176640253910
+    second: AverageJoe_210
+  - first:
+      213: -183638507981945194
+    second: AverageJoe_211
+  - first:
+      213: -8740289355198775505
+    second: AverageJoe_212
+  - first:
+      213: 5684565463708099865
+    second: AverageJoe_213
+  - first:
+      213: -7522233437755363406
+    second: AverageJoe_214
+  - first:
+      213: 7723017501213119340
+    second: AverageJoe_215
+  - first:
+      213: -6911141401344254931
+    second: AverageJoe_216
+  - first:
+      213: 2274728814384892277
+    second: AverageJoe_217
+  - first:
+      213: 3811822206019957511
+    second: AverageJoe_218
+  - first:
+      213: 2802489358548218184
+    second: AverageJoe_219
+  - first:
+      213: 1291150318740015061
+    second: AverageJoe_220
+  - first:
+      213: -8462388737626636353
+    second: AverageJoe_221
+  - first:
+      213: 5397076550219109135
+    second: AverageJoe_222
+  - first:
+      213: -6919245225470384640
+    second: AverageJoe_223
+  - first:
+      213: 4134207580319806712
+    second: AverageJoe_224
+  - first:
+      213: -7648363209925813787
+    second: AverageJoe_225
+  - first:
+      213: -1703376558242289255
+    second: AverageJoe_226
+  - first:
+      213: 4101519780664516879
+    second: AverageJoe_227
+  - first:
+      213: -5169389416416149871
+    second: AverageJoe_228
+  - first:
+      213: 5850605636226394844
+    second: AverageJoe_229
+  - first:
+      213: 4309018342963660917
+    second: AverageJoe_230
+  - first:
+      213: -3589775319876967263
+    second: AverageJoe_231
+  - first:
+      213: 3187141998475582260
+    second: AverageJoe_232
+  - first:
+      213: 4316760075175716329
+    second: AverageJoe_233
+  - first:
+      213: 2916616622995712427
+    second: AverageJoe_234
+  - first:
+      213: 5953262573576141017
+    second: AverageJoe_235
+  - first:
+      213: -3298492613767047056
+    second: AverageJoe_236
+  - first:
+      213: 4144871695604276569
+    second: AverageJoe_237
+  - first:
+      213: 3768096872910365975
+    second: AverageJoe_238
+  - first:
+      213: 3152531253506130618
+    second: AverageJoe_239
+  - first:
+      213: -5762262597358532490
+    second: AverageJoe_240
+  - first:
+      213: 5639719702672736187
+    second: AverageJoe_241
+  - first:
+      213: 1969446767061346799
+    second: AverageJoe_242
+  - first:
+      213: -1242078407988435501
+    second: AverageJoe_243
+  - first:
+      213: 2964906713057254
+    second: AverageJoe_244
+  - first:
+      213: -1778542672042117876
+    second: AverageJoe_245
+  - first:
+      213: -5223482527747125833
+    second: AverageJoe_246
+  - first:
+      213: -1705323618129508214
+    second: AverageJoe_247
+  - first:
+      213: 6346467912470511990
+    second: AverageJoe_248
+  - first:
+      213: 587271957368819751
+    second: AverageJoe_249
+  - first:
+      213: 1728171099174940433
+    second: AverageJoe_250
+  - first:
+      213: -5087206006203305899
+    second: AverageJoe_251
+  - first:
+      213: 3770458990436078264
+    second: AverageJoe_252
+  - first:
+      213: 5914829654566090217
+    second: AverageJoe_253
+  - first:
+      213: -2644527534415473660
+    second: AverageJoe_254
+  - first:
+      213: -8803600356508014317
+    second: AverageJoe_255
+  - first:
+      213: -6447229331012951541
+    second: AverageJoe_256
+  - first:
+      213: -6827623893017344115
+    second: AverageJoe_257
+  - first:
+      213: 2229862339487283052
+    second: AverageJoe_258
+  - first:
+      213: -2248669894594188603
+    second: AverageJoe_259
+  - first:
+      213: 240948031474057794
+    second: AverageJoe_260
+  - first:
+      213: 3067726625719268436
+    second: AverageJoe_261
+  - first:
+      213: 3203391328741107335
+    second: AverageJoe_262
+  - first:
+      213: 5197544195267670759
+    second: AverageJoe_263
+  - first:
+      213: -7381303297813078404
+    second: AverageJoe_264
+  - first:
+      213: -7898323537827126366
+    second: AverageJoe_265
+  - first:
+      213: -7496775266802758521
+    second: AverageJoe_266
+  - first:
+      213: -6327986159184664072
+    second: AverageJoe_267
+  - first:
+      213: 6498241030427650542
+    second: AverageJoe_268
+  - first:
+      213: -9031114223931062437
+    second: AverageJoe_269
+  - first:
+      213: -4444371472133818433
+    second: AverageJoe_270
+  - first:
+      213: 1946617834211283127
+    second: AverageJoe_271
+  - first:
+      213: 3968144303050436066
+    second: AverageJoe_272
+  - first:
+      213: 8414963864396037469
+    second: AverageJoe_273
+  - first:
+      213: 382108844828114597
+    second: AverageJoe_274
+  - first:
+      213: 1929241075678695807
+    second: AverageJoe_275
+  - first:
+      213: -4418380184298777080
+    second: AverageJoe_276
+  - first:
+      213: 3437752583478217951
+    second: AverageJoe_277
+  - first:
+      213: -4936018876527797725
+    second: AverageJoe_278
+  - first:
+      213: -968750808131855779
+    second: AverageJoe_279
+  - first:
+      213: 508251216934202039
+    second: AverageJoe_280
+  - first:
+      213: 3978326249749524951
+    second: AverageJoe_281
+  - first:
+      213: -414797328629220127
+    second: AverageJoe_282
+  - first:
+      213: -3942375443430432415
+    second: AverageJoe_283
+  - first:
+      213: 6620919105476122226
+    second: AverageJoe_284
+  - first:
+      213: -1158618803925526185
+    second: AverageJoe_285
+  - first:
+      213: -5199477900580651541
+    second: AverageJoe_286
+  - first:
+      213: -3044793582385738423
+    second: AverageJoe_287
+  - first:
+      213: -6981664933705042764
+    second: AverageJoe_288
+  - first:
+      213: 7310083432077535975
+    second: AverageJoe_289
+  - first:
+      213: -2789806338470796769
+    second: AverageJoe_290
+  - first:
+      213: 2866060387664777273
+    second: AverageJoe_291
+  - first:
+      213: 932812532082022293
+    second: AverageJoe_292
+  - first:
+      213: -2345845846352537987
+    second: AverageJoe_293
+  - first:
+      213: 6203803201813156785
+    second: AverageJoe_294
+  - first:
+      213: 4837133627457029668
+    second: AverageJoe_295
+  - first:
+      213: -856437009776475359
+    second: AverageJoe_296
+  - first:
+      213: -7303059023283696613
+    second: AverageJoe_297
+  - first:
+      213: -6932248858517832240
+    second: AverageJoe_298
+  - first:
+      213: -7396578934498724030
+    second: AverageJoe_299
+  - first:
+      213: 349519591557220412
+    second: AverageJoe_300
+  - first:
+      213: 4812934303983094173
+    second: AverageJoe_301
+  - first:
+      213: 9198965336051211080
+    second: AverageJoe_302
+  - first:
+      213: -6399260546241007083
+    second: AverageJoe_303
+  - first:
+      213: -4335807943090493203
+    second: AverageJoe_304
+  - first:
+      213: -6562526955949695476
+    second: AverageJoe_305
+  - first:
+      213: -8917055306636576463
+    second: AverageJoe_306
+  - first:
+      213: -1822091383163081726
+    second: AverageJoe_307
+  - first:
+      213: 7483515400364988067
+    second: AverageJoe_308
+  - first:
+      213: 7673783131558849883
+    second: AverageJoe_309
+  - first:
+      213: -1768163486708879551
+    second: AverageJoe_310
+  - first:
+      213: 2179757635684386395
+    second: AverageJoe_311
+  - first:
+      213: 3092484511263634123
+    second: AverageJoe_312
+  - first:
+      213: 176294887335147212
+    second: AverageJoe_313
+  - first:
+      213: -2722994275098773378
+    second: AverageJoe_314
+  - first:
+      213: -842716751794943141
+    second: AverageJoe_315
+  - first:
+      213: -3339811957966139912
+    second: AverageJoe_316
+  - first:
+      213: -2701600017211898407
+    second: AverageJoe_317
+  - first:
+      213: 5682488794479269987
+    second: AverageJoe_318
+  - first:
+      213: -441174874070055241
+    second: AverageJoe_319
+  - first:
+      213: -4061231644228566687
+    second: AverageJoe_320
+  - first:
+      213: 4015723044859963656
+    second: AverageJoe_321
+  - first:
+      213: 119727534379615886
+    second: AverageJoe_322
+  - first:
+      213: -6789366267653306666
+    second: AverageJoe_323
+  - first:
+      213: -754292985357927278
+    second: AverageJoe_324
+  - first:
+      213: 5082845082563006145
+    second: AverageJoe_325
+  - first:
+      213: -194451459323742566
+    second: AverageJoe_326
+  - first:
+      213: 7957358703239666944
+    second: AverageJoe_327
+  - first:
+      213: -7634722813134357194
+    second: AverageJoe_328
+  - first:
+      213: 7890256964704348187
+    second: AverageJoe_329
+  - first:
+      213: 7778644040619304568
+    second: AverageJoe_330
+  - first:
+      213: -9001345096938006187
+    second: AverageJoe_331
+  - first:
+      213: -4844442360582348532
+    second: AverageJoe_332
+  - first:
+      213: -7243382297148709207
+    second: AverageJoe_333
+  - first:
+      213: 803614391606014799
+    second: AverageJoe_334
+  - first:
+      213: 3277224087379814251
+    second: AverageJoe_335
+  - first:
+      213: -2336810705867836682
+    second: AverageJoe_336
+  - first:
+      213: 5348362507363223511
+    second: AverageJoe_337
+  - first:
+      213: 435430001910809254
+    second: AverageJoe_338
+  - first:
+      213: -7331010006458436901
+    second: AverageJoe_339
+  - first:
+      213: 5960266008775657658
+    second: AverageJoe_340
+  - first:
+      213: -7041033211872787549
+    second: AverageJoe_341
+  - first:
+      213: 8550896671061156073
+    second: AverageJoe_342
+  - first:
+      213: 2691091693019370089
+    second: AverageJoe_343
+  - first:
+      213: -985811296048683690
+    second: AverageJoe_344
+  - first:
+      213: 478577291641797964
+    second: AverageJoe_345
+  - first:
+      213: -8458359913162673843
+    second: AverageJoe_346
+  - first:
+      213: 8130919680610748024
+    second: AverageJoe_347
+  - first:
+      213: 1723823559477327757
+    second: AverageJoe_348
+  - first:
+      213: -2134318106563685650
+    second: AverageJoe_349
+  - first:
+      213: 6164972356284041089
+    second: AverageJoe_350
+  - first:
+      213: -6134060597955729988
+    second: AverageJoe_351
+  - first:
+      213: 3135761048852936988
+    second: AverageJoe_352
+  - first:
+      213: 5107794919597615771
+    second: AverageJoe_353
+  - first:
+      213: 2818053510596118098
+    second: AverageJoe_354
+  - first:
+      213: 228703508136098796
+    second: AverageJoe_355
+  - first:
+      213: 705479661273339080
+    second: AverageJoe_356
+  - first:
+      213: 7352438216979377520
+    second: AverageJoe_357
+  - first:
+      213: -2969111845164760933
+    second: AverageJoe_358
+  - first:
+      213: 5132710058988256105
+    second: AverageJoe_359
+  - first:
+      213: -9027932964881113205
+    second: AverageJoe_360
+  - first:
+      213: -2530423981969188639
+    second: AverageJoe_361
+  - first:
+      213: 232889485369152136
+    second: AverageJoe_362
+  - first:
+      213: 1586668755913715889
+    second: AverageJoe_363
+  - first:
+      213: -5515190685073702109
+    second: AverageJoe_364
+  - first:
+      213: -6102816490940144503
+    second: AverageJoe_365
+  - first:
+      213: 2050337176880248423
+    second: AverageJoe_366
+  - first:
+      213: -2605482052353904769
+    second: AverageJoe_367
+  - first:
+      213: -5253410653150112200
+    second: AverageJoe_368
+  - first:
+      213: -1611750752374259131
+    second: AverageJoe_369
+  - first:
+      213: 2357334851654753130
+    second: AverageJoe_370
+  - first:
+      213: -405662284929945046
+    second: AverageJoe_371
+  - first:
+      213: -5222317021035499069
+    second: AverageJoe_372
+  - first:
+      213: 2445068055081690646
+    second: AverageJoe_373
+  - first:
+      213: 7498826579312119775
+    second: AverageJoe_374
+  - first:
+      213: 6729948231107496169
+    second: AverageJoe_375
+  - first:
+      213: -3633833803033042668
+    second: AverageJoe_376
+  - first:
+      213: 3741517691150564039
+    second: AverageJoe_377
+  - first:
+      213: -6254579458706705692
+    second: AverageJoe_378
+  - first:
+      213: 8407214725295977266
+    second: AverageJoe_379
+  - first:
+      213: 1963629155118410072
+    second: AverageJoe_380
+  - first:
+      213: 7849614441536177014
+    second: AverageJoe_381
+  - first:
+      213: 6972079155173837727
+    second: AverageJoe_382
+  - first:
+      213: -398412194726791211
+    second: AverageJoe_383
+  - first:
+      213: 1424688228486914900
+    second: AverageJoe_384
+  - first:
+      213: -1712513910490968088
+    second: AverageJoe_385
+  - first:
+      213: -4050125151707476265
+    second: AverageJoe_386
+  - first:
+      213: 7942526809861390171
+    second: AverageJoe_387
+  - first:
+      213: 3629395502144234053
+    second: AverageJoe_388
+  - first:
+      213: 551947481868009911
+    second: AverageJoe_389
+  - first:
+      213: 5416228863057747191
+    second: AverageJoe_390
+  - first:
+      213: 7914444595826947920
+    second: AverageJoe_391
+  - first:
+      213: 8190773932087248001
+    second: AverageJoe_392
+  - first:
+      213: -6170186319472357161
+    second: AverageJoe_393
+  - first:
+      213: 6531549521337855902
+    second: AverageJoe_394
+  - first:
+      213: -1570908878516986607
+    second: AverageJoe_395
+  - first:
+      213: 1973405318906424013
+    second: AverageJoe_396
+  - first:
+      213: 7776615404740295604
+    second: AverageJoe_397
+  - first:
+      213: 6484047755194932977
+    second: AverageJoe_398
+  - first:
+      213: 3447870046238357341
+    second: AverageJoe_399
+  - first:
+      213: 543815580220763051
+    second: AverageJoe_400
+  - first:
+      213: 8996426394550442705
+    second: AverageJoe_401
+  - first:
+      213: -4616544761744581230
+    second: AverageJoe_402
+  - first:
+      213: -4468876771330012078
+    second: AverageJoe_403
+  - first:
+      213: 4335669708039019682
+    second: AverageJoe_404
+  - first:
+      213: -6797541127399023057
+    second: AverageJoe_405
+  - first:
+      213: -5648115210876311719
+    second: AverageJoe_406
+  - first:
+      213: 3008322908703571673
+    second: AverageJoe_407
+  - first:
+      213: 7481660095632741263
+    second: AverageJoe_408
+  - first:
+      213: 729167949099188020
+    second: AverageJoe_409
+  - first:
+      213: -3740979546062629645
+    second: AverageJoe_410
+  - first:
+      213: 8274768591003543161
+    second: AverageJoe_411
+  - first:
+      213: 694706002309950051
+    second: AverageJoe_412
+  - first:
+      213: 5926357220901820634
+    second: AverageJoe_413
+  - first:
+      213: -5759108691173980768
+    second: AverageJoe_414
+  - first:
+      213: -1261630585712642203
+    second: AverageJoe_415
+  - first:
+      213: 6739615154379645433
+    second: AverageJoe_416
+  - first:
+      213: 9015141399606476994
+    second: AverageJoe_417
+  - first:
+      213: -302475313332019056
+    second: AverageJoe_418
+  - first:
+      213: -8207905589750976877
+    second: AverageJoe_419
+  - first:
+      213: 1670793930978525605
+    second: AverageJoe_420
+  - first:
+      213: -6406734762964311845
+    second: AverageJoe_421
+  - first:
+      213: 7368107304995318446
+    second: AverageJoe_422
+  - first:
+      213: -629106666216107013
+    second: AverageJoe_423
+  - first:
+      213: 4222474714475067500
+    second: AverageJoe_424
+  - first:
+      213: -3350049516559411347
+    second: AverageJoe_425
+  - first:
+      213: 6901892099338844442
+    second: AverageJoe_426
+  - first:
+      213: -5804052074066676183
+    second: AverageJoe_427
+  - first:
+      213: -547212925192511011
+    second: AverageJoe_428
+  - first:
+      213: -2257543851888911377
+    second: AverageJoe_429
+  - first:
+      213: -2135150568282939137
+    second: AverageJoe_430
+  - first:
+      213: 3325251301576820105
+    second: AverageJoe_431
+  - first:
+      213: 8065813214355912114
+    second: AverageJoe_432
+  - first:
+      213: 3917665089940585684
+    second: AverageJoe_433
+  - first:
+      213: 4544085547724005858
+    second: AverageJoe_434
+  - first:
+      213: -1947204741477642000
+    second: AverageJoe_435
+  - first:
+      213: -7881116288113589154
+    second: AverageJoe_436
+  - first:
+      213: 8001293031115378597
+    second: AverageJoe_437
+  - first:
+      213: -268772293186892264
+    second: AverageJoe_438
+  - first:
+      213: 8859877888092425352
+    second: AverageJoe_439
+  - first:
+      213: -3223104819616123928
+    second: AverageJoe_440
+  - first:
+      213: 757745175825365366
+    second: AverageJoe_441
+  - first:
+      213: -7140600611176400870
+    second: AverageJoe_442
+  - first:
+      213: -5255454311603865337
+    second: AverageJoe_443
+  - first:
+      213: 6641286149141632406
+    second: AverageJoe_444
+  - first:
+      213: -2749427716132532512
+    second: AverageJoe_445
+  - first:
+      213: 2786262574624793282
+    second: AverageJoe_446
+  - first:
+      213: -995952649075689526
+    second: AverageJoe_447
+  - first:
+      213: -6400641787207199593
+    second: AverageJoe_448
+  - first:
+      213: -6298863929507622545
+    second: AverageJoe_449
+  - first:
+      213: 2947769916061345850
+    second: AverageJoe_450
+  - first:
+      213: -1228008585868597964
+    second: AverageJoe_451
+  - first:
+      213: -1312600665082158531
+    second: AverageJoe_452
+  - first:
+      213: -8029145153727175763
+    second: AverageJoe_453
+  - first:
+      213: 4014056409249746619
+    second: AverageJoe_454
+  - first:
+      213: 4945996427861476833
+    second: AverageJoe_455
+  - first:
+      213: -5160251382675878929
+    second: AverageJoe_456
+  - first:
+      213: 3154184164195777106
+    second: AverageJoe_457
+  - first:
+      213: 1126546794166090267
+    second: AverageJoe_458
+  - first:
+      213: 1086303464839472984
+    second: AverageJoe_459
+  - first:
+      213: -4689883205255383028
+    second: AverageJoe_460
+  - first:
+      213: 6135237635805725919
+    second: AverageJoe_461
+  - first:
+      213: -1062468461184189988
+    second: AverageJoe_462
+  - first:
+      213: 4135753785551753243
+    second: AverageJoe_463
+  - first:
+      213: -9149729671820279633
+    second: AverageJoe_464
+  - first:
+      213: -1241915664556155929
+    second: AverageJoe_465
+  - first:
+      213: -1912515653690322225
+    second: AverageJoe_466
+  - first:
+      213: 8282726379809417032
+    second: AverageJoe_467
+  - first:
+      213: 6437780011535200296
+    second: AverageJoe_468
+  - first:
+      213: -3523822090071460730
+    second: AverageJoe_469
+  - first:
+      213: -6292152705302669155
+    second: AverageJoe_470
+  - first:
+      213: -4241119076206056833
+    second: AverageJoe_471
+  - first:
+      213: -1542108668391077185
+    second: AverageJoe_472
+  - first:
+      213: 1885544697535989822
+    second: AverageJoe_473
+  - first:
+      213: -1883704893456083936
+    second: AverageJoe_474
+  - first:
+      213: -6676232253828950367
+    second: AverageJoe_475
+  - first:
+      213: -1860250553901259743
+    second: AverageJoe_476
+  - first:
+      213: 6633311658137431018
+    second: AverageJoe_477
+  - first:
+      213: -1991857068625772974
+    second: AverageJoe_478
+  - first:
+      213: -5216394134255831375
+    second: AverageJoe_479
+  - first:
+      213: -7327677493019063902
+    second: AverageJoe_480
+  - first:
+      213: -1617084105317231033
+    second: AverageJoe_481
+  - first:
+      213: 1315650391689827091
+    second: AverageJoe_482
+  - first:
+      213: -5981473960173302703
+    second: AverageJoe_483
+  - first:
+      213: -4861682685059823613
+    second: AverageJoe_484
+  - first:
+      213: 3868768468759759516
+    second: AverageJoe_485
+  - first:
+      213: 2990990674263460730
+    second: AverageJoe_486
+  - first:
+      213: 636149734886745570
+    second: AverageJoe_487
+  - first:
+      213: -5110311427290554963
+    second: AverageJoe_488
+  - first:
+      213: 7016680373195135151
+    second: AverageJoe_489
+  - first:
+      213: -3235486373291721802
+    second: AverageJoe_490
+  - first:
+      213: -4915034257709298162
+    second: AverageJoe_491
+  - first:
+      213: 2070873449857089073
+    second: AverageJoe_492
+  - first:
+      213: 2849749234955171391
+    second: AverageJoe_493
+  - first:
+      213: 4587172948519407987
+    second: AverageJoe_494
+  - first:
+      213: 4586421232696554165
+    second: AverageJoe_495
+  - first:
+      213: -1544777800534853116
+    second: AverageJoe_496
+  - first:
+      213: -8005820175718259937
+    second: AverageJoe_497
+  - first:
+      213: -1192877451131029517
+    second: AverageJoe_498
+  - first:
+      213: -4225044716513422833
+    second: AverageJoe_499
+  - first:
+      213: -5096928501663394059
+    second: AverageJoe_500
+  - first:
+      213: 8281517976517084363
+    second: AverageJoe_501
+  - first:
+      213: 4159596449187914146
+    second: AverageJoe_502
+  - first:
+      213: -4984414551454832419
+    second: AverageJoe_503
+  - first:
+      213: 4114573663568674495
+    second: AverageJoe_504
+  - first:
+      213: -8848361214383214136
+    second: AverageJoe_505
+  - first:
+      213: 7662659400703140541
+    second: AverageJoe_506
+  - first:
+      213: -4661077434104076449
+    second: AverageJoe_507
+  - first:
+      213: 9091397699813337337
+    second: AverageJoe_508
+  - first:
+      213: 4172724006381512641
+    second: AverageJoe_509
+  - first:
+      213: -5040745556391568565
+    second: AverageJoe_510
+  - first:
+      213: -1328418338569915240
+    second: AverageJoe_511
+  - first:
+      213: -3966410142555766580
+    second: AverageJoe_512
+  - first:
+      213: 4410744993622223376
+    second: AverageJoe_513
+  - first:
+      213: 3501335760975719639
+    second: AverageJoe_514
+  - first:
+      213: 2773180496301342668
+    second: AverageJoe_515
+  - first:
+      213: 2882675464660408805
+    second: AverageJoe_516
+  - first:
+      213: 8169761851835404973
+    second: AverageJoe_517
+  - first:
+      213: -4306326109683770003
+    second: AverageJoe_518
+  - first:
+      213: -6536455908239899669
+    second: AverageJoe_519
+  - first:
+      213: -149432640321207116
+    second: AverageJoe_520
+  - first:
+      213: 2666555272744192094
+    second: AverageJoe_521
+  - first:
+      213: -8179629013548120145
+    second: AverageJoe_522
+  - first:
+      213: -7936840952053870846
+    second: AverageJoe_523
+  - first:
+      213: 1283184755867764388
+    second: AverageJoe_524
+  - first:
+      213: -2955078174842741435
+    second: AverageJoe_525
+  - first:
+      213: -5399174512616789172
+    second: AverageJoe_526
+  - first:
+      213: -8637952139287281921
+    second: AverageJoe_527
+  - first:
+      213: 2038473580443242023
+    second: AverageJoe_528
+  - first:
+      213: 8789866910306954849
+    second: AverageJoe_529
+  - first:
+      213: -2726803521089211382
+    second: AverageJoe_530
+  - first:
+      213: 6198143670009412488
+    second: AverageJoe_531
+  - first:
+      213: 8090697277675201839
+    second: AverageJoe_532
+  - first:
+      213: 9170565770053932285
+    second: AverageJoe_533
+  - first:
+      213: -1956421032221628498
+    second: AverageJoe_534
+  - first:
+      213: -9062844096783959121
+    second: AverageJoe_535
+  - first:
+      213: -3324196720649624238
+    second: AverageJoe_536
+  - first:
+      213: -7138691162565886992
+    second: AverageJoe_537
+  - first:
+      213: -7401379920947501315
+    second: AverageJoe_538
+  - first:
+      213: -2159016993075483419
+    second: AverageJoe_539
+  - first:
+      213: 2226833011064728797
+    second: AverageJoe_540
+  - first:
+      213: 1982800037379249308
+    second: AverageJoe_541
+  - first:
+      213: 6627588351462384605
+    second: AverageJoe_542
+  - first:
+      213: 6241718342528927741
+    second: AverageJoe_543
+  - first:
+      213: -4176499442083318442
+    second: AverageJoe_544
+  - first:
+      213: -3759738811301516831
+    second: AverageJoe_545
+  - first:
+      213: 7798161237006254174
+    second: AverageJoe_546
+  - first:
+      213: 5639345207961171260
+    second: AverageJoe_547
+  - first:
+      213: -3112937624970992384
+    second: AverageJoe_548
+  - first:
+      213: -1925187658695746763
+    second: AverageJoe_549
+  - first:
+      213: 1070899510001770206
+    second: AverageJoe_550
+  - first:
+      213: 4947813083022519244
+    second: AverageJoe_551
+  - first:
+      213: -229774575643366225
+    second: AverageJoe_552
+  - first:
+      213: -6268487989903553605
+    second: AverageJoe_553
+  - first:
+      213: 8773055637541568881
+    second: AverageJoe_554
+  - first:
+      213: 8875270854832630482
+    second: AverageJoe_555
+  - first:
+      213: -7726059530469842248
+    second: AverageJoe_556
+  - first:
+      213: -5792359009432709627
+    second: AverageJoe_557
+  - first:
+      213: -6690625160340930707
+    second: AverageJoe_558
+  - first:
+      213: 8177615264785564124
+    second: AverageJoe_559
+  - first:
+      213: -1247802399674352586
+    second: AverageJoe_560
+  - first:
+      213: -9058492901109699965
+    second: AverageJoe_561
+  - first:
+      213: -1566308167882425932
+    second: AverageJoe_562
+  - first:
+      213: -3787627298865722382
+    second: AverageJoe_563
+  - first:
+      213: 6077573339131686637
+    second: AverageJoe_564
+  - first:
+      213: 2988504717929425421
+    second: AverageJoe_565
+  - first:
+      213: -7283859912972863552
+    second: AverageJoe_566
+  - first:
+      213: 2388033139205269483
+    second: AverageJoe_567
+  - first:
+      213: -6293989645576963328
+    second: AverageJoe_568
+  - first:
+      213: -3639742052818679211
+    second: AverageJoe_569
+  - first:
+      213: -1674436970647724212
+    second: AverageJoe_570
+  - first:
+      213: -720945438136311279
+    second: AverageJoe_571
+  - first:
+      213: -5292508489130064238
+    second: AverageJoe_572
+  - first:
+      213: 5375678655189166820
+    second: AverageJoe_573
+  - first:
+      213: -2911500287993385770
+    second: AverageJoe_574
+  - first:
+      213: -8858586472860856676
+    second: AverageJoe_575
+  - first:
+      213: 1488006134841703388
+    second: AverageJoe_576
+  - first:
+      213: 6646376600209814324
+    second: AverageJoe_577
+  - first:
+      213: -2070401576571785462
+    second: AverageJoe_578
+  - first:
+      213: 4891470967482216687
+    second: AverageJoe_579
+  - first:
+      213: -1226230496520588308
+    second: AverageJoe_580
+  - first:
+      213: -6643204426399590973
+    second: AverageJoe_581
+  - first:
+      213: -1772991892400649899
+    second: AverageJoe_582
+  - first:
+      213: -2125429271037288779
+    second: AverageJoe_583
+  - first:
+      213: 2719710937779240476
+    second: AverageJoe_584
+  - first:
+      213: -4160633369110784463
+    second: AverageJoe_585
+  - first:
+      213: -6628564084064365453
+    second: AverageJoe_586
+  - first:
+      213: 2720741228649086132
+    second: AverageJoe_587
+  - first:
+      213: -3807770306617169663
+    second: AverageJoe_588
+  - first:
+      213: -5752982890048468751
+    second: AverageJoe_589
+  - first:
+      213: -515629804535821844
+    second: AverageJoe_590
+  - first:
+      213: -1833567626075995913
+    second: AverageJoe_591
+  - first:
+      213: -5739592385051546444
+    second: AverageJoe_592
+  - first:
+      213: -7804446013079592835
+    second: AverageJoe_593
+  - first:
+      213: -6817011071959294547
+    second: AverageJoe_594
+  - first:
+      213: -6054110599354046007
+    second: AverageJoe_595
+  - first:
+      213: 1405459200782581925
+    second: AverageJoe_596
+  - first:
+      213: 2060108711720709024
+    second: AverageJoe_597
+  - first:
+      213: 6805970740115994316
+    second: AverageJoe_598
+  - first:
+      213: 5957792896123502020
+    second: AverageJoe_599
+  - first:
+      213: 6958056351655779533
+    second: AverageJoe_600
+  - first:
+      213: -3858650010452344543
+    second: AverageJoe_601
+  - first:
+      213: 743167925498807394
+    second: AverageJoe_602
+  - first:
+      213: -907757768492526960
+    second: AverageJoe_603
+  - first:
+      213: -6716893574664361363
+    second: AverageJoe_604
+  - first:
+      213: 2493066025769938485
+    second: AverageJoe_605
+  - first:
+      213: -2252602888852175592
+    second: AverageJoe_606
+  - first:
+      213: -8777599798644471201
+    second: AverageJoe_607
+  - first:
+      213: 7156727942999441247
+    second: AverageJoe_608
+  - first:
+      213: -3794764048586839469
+    second: AverageJoe_609
+  - first:
+      213: 1815526700795801146
+    second: AverageJoe_610
+  - first:
+      213: 1347020047833027733
+    second: AverageJoe_611
+  - first:
+      213: -8032857549971893315
+    second: AverageJoe_612
+  - first:
+      213: -3446247399961391184
+    second: AverageJoe_613
+  - first:
+      213: 6880214298514807115
+    second: AverageJoe_614
+  - first:
+      213: -8674905200446777229
+    second: AverageJoe_615
+  - first:
+      213: -3050652606500011238
+    second: AverageJoe_681
+  - first:
+      213: 6755675690242953055
+    second: AverageJoe_617
+  - first:
+      213: 4973977359485365199
+    second: AverageJoe_618
+  - first:
+      213: 113424880728815495
+    second: AverageJoe_619
+  - first:
+      213: 5955936316846773245
+    second: AverageJoe_620
+  - first:
+      213: -7772831823955549778
+    second: AverageJoe_621
+  - first:
+      213: 4710655395289785424
+    second: AverageJoe_622
+  - first:
+      213: -7762301686386153860
+    second: AverageJoe_623
+  - first:
+      213: -2714692212764940610
+    second: AverageJoe_624
+  - first:
+      213: 7827541621467348355
+    second: AverageJoe_625
+  - first:
+      213: -6973269733424601280
+    second: AverageJoe_626
+  - first:
+      213: 2875691430646169300
+    second: AverageJoe_627
+  - first:
+      213: -4064586393870385086
+    second: AverageJoe_628
+  - first:
+      213: -5152209438555265656
+    second: AverageJoe_629
+  - first:
+      213: 1580880573977856602
+    second: AverageJoe_630
+  - first:
+      213: 782045449293331761
+    second: AverageJoe_631
+  - first:
+      213: 8719943682737849206
+    second: AverageJoe_632
+  - first:
+      213: -4780886061284977759
+    second: AverageJoe_633
+  - first:
+      213: 6594278561190617995
+    second: AverageJoe_634
+  - first:
+      213: -8981260987467096505
+    second: AverageJoe_635
+  - first:
+      213: -2255517575252899810
+    second: AverageJoe_636
+  - first:
+      213: 6139973934207218093
+    second: AverageJoe_637
+  - first:
+      213: 7803619709943229019
+    second: AverageJoe_638
+  - first:
+      213: 6930829540893327618
+    second: AverageJoe_639
+  - first:
+      213: 5951262279898267363
+    second: AverageJoe_640
+  - first:
+      213: 4321389052448391131
+    second: AverageJoe_641
+  - first:
+      213: 4383658170534342082
+    second: AverageJoe_642
+  - first:
+      213: 2752839162501679378
+    second: AverageJoe_643
+  - first:
+      213: 3586350567394011250
+    second: AverageJoe_644
+  - first:
+      213: 8186279569337909380
+    second: AverageJoe_645
+  - first:
+      213: -5539277779094410728
+    second: AverageJoe_646
+  - first:
+      213: -6650240279911056692
+    second: AverageJoe_647
+  - first:
+      213: 4026852164937323351
+    second: AverageJoe_648
+  - first:
+      213: 4531837605094059380
+    second: AverageJoe_649
+  - first:
+      213: 1982099142925622369
+    second: AverageJoe_650
+  - first:
+      213: -8114629812923783471
+    second: AverageJoe_651
+  - first:
+      213: 7237771298892667587
+    second: AverageJoe_652
+  - first:
+      213: 1538708729422984130
+    second: AverageJoe_653
+  - first:
+      213: -6449586973113878441
+    second: AverageJoe_654
+  - first:
+      213: -4309745423833731122
+    second: AverageJoe_655
+  - first:
+      213: -8741812486564251606
+    second: AverageJoe_656
+  - first:
+      213: 3322717634718212521
+    second: AverageJoe_657
+  - first:
+      213: 8177023110001090512
+    second: AverageJoe_658
+  - first:
+      213: 5537428311260210609
+    second: AverageJoe_659
+  - first:
+      213: -8391535638856294596
+    second: AverageJoe_660
+  - first:
+      213: 2581845844611187774
+    second: AverageJoe_661
+  - first:
+      213: 2819077805610017685
+    second: AverageJoe_662
+  - first:
+      213: 9001743935406652352
+    second: AverageJoe_663
+  - first:
+      213: -6273038647585653275
+    second: AverageJoe_664
+  - first:
+      213: 3906569535876351323
+    second: AverageJoe_665
+  - first:
+      213: -9130163481684602139
+    second: AverageJoe_666
+  - first:
+      213: 7637068721640391344
+    second: AverageJoe_667
+  - first:
+      213: -2913311271126826350
+    second: AverageJoe_668
+  - first:
+      213: 3672829399755776565
+    second: AverageJoe_669
+  - first:
+      213: 3732247534938485547
+    second: AverageJoe_670
+  - first:
+      213: -267315491864185886
+    second: AverageJoe_671
+  - first:
+      213: 5970572646975885103
+    second: AverageJoe_672
+  - first:
+      213: -1000034007162895898
+    second: AverageJoe_673
+  - first:
+      213: 8668189512771556451
+    second: AverageJoe_674
+  - first:
+      213: 8378481610096832459
+    second: AverageJoe_675
+  - first:
+      213: 8926239989783627896
+    second: AverageJoe_676
+  - first:
+      213: 3308270412574505892
+    second: AverageJoe_677
+  - first:
+      213: -5337605149379015064
+    second: AverageJoe_678
+  - first:
+      213: 3444231864380316580
+    second: AverageJoe_679
+  - first:
+      213: -2625207776691028167
+    second: AverageJoe_680
+  - first:
+      213: 6204275181019572524
+    second: AverageJoe_1000
+  - first:
+      213: -1013014414864421446
+    second: AverageJoe_682
+  - first:
+      213: 1307415132160065950
+    second: AverageJoe_683
+  - first:
+      213: -8147254052862666359
+    second: AverageJoe_684
+  - first:
+      213: 4801346719479916669
+    second: AverageJoe_685
+  - first:
+      213: 7931178532844162665
+    second: AverageJoe_686
+  - first:
+      213: -2755844863981296353
+    second: AverageJoe_687
+  - first:
+      213: -9113775884497617802
+    second: AverageJoe_688
+  - first:
+      213: 4689892495416397897
+    second: AverageJoe_689
+  - first:
+      213: 6228893287985070017
+    second: AverageJoe_690
+  - first:
+      213: -6661226747320458474
+    second: AverageJoe_691
+  - first:
+      213: 7203427660936706665
+    second: AverageJoe_692
+  - first:
+      213: 7906649640890812264
+    second: AverageJoe_693
+  - first:
+      213: 5605018177911488192
+    second: AverageJoe_694
+  - first:
+      213: 3039142999995124671
+    second: AverageJoe_695
+  - first:
+      213: -8545940228108849530
+    second: AverageJoe_696
+  - first:
+      213: 5587327715475585451
+    second: AverageJoe_697
+  - first:
+      213: 461031801996627928
+    second: AverageJoe_698
+  - first:
+      213: 3549923524372296398
+    second: AverageJoe_699
+  - first:
+      213: -5924840428506273221
+    second: AverageJoe_700
+  - first:
+      213: -3714298774625275356
+    second: AverageJoe_701
+  - first:
+      213: 7737982275704469801
+    second: AverageJoe_702
+  - first:
+      213: 1859970037779150300
+    second: AverageJoe_703
+  - first:
+      213: 1937958095844489473
+    second: AverageJoe_704
+  - first:
+      213: 2325508348548459597
+    second: AverageJoe_705
+  - first:
+      213: 4387626423425833984
+    second: AverageJoe_706
+  - first:
+      213: 837184053805931229
+    second: AverageJoe_707
+  - first:
+      213: 751171707921203223
+    second: AverageJoe_708
+  - first:
+      213: 3889669613003290317
+    second: AverageJoe_709
+  - first:
+      213: -1956786072131192849
+    second: AverageJoe_710
+  - first:
+      213: 9186122245580594035
+    second: AverageJoe_711
+  - first:
+      213: -625660165090140041
+    second: AverageJoe_712
+  - first:
+      213: -365807121540751664
+    second: AverageJoe_713
+  - first:
+      213: 5149540643483701003
+    second: AverageJoe_714
+  - first:
+      213: -4907933251556460630
+    second: AverageJoe_715
+  - first:
+      213: -1645374211237807794
+    second: AverageJoe_716
+  - first:
+      213: 6386679334773506313
+    second: AverageJoe_717
+  - first:
+      213: 6351698913593986347
+    second: AverageJoe_718
+  - first:
+      213: -1137039223776864460
+    second: AverageJoe_719
+  - first:
+      213: -7129602174379308524
+    second: AverageJoe_720
+  - first:
+      213: -2204613567228577156
+    second: AverageJoe_721
+  - first:
+      213: 8109192390239248186
+    second: AverageJoe_722
+  - first:
+      213: 8466696831432237765
+    second: AverageJoe_723
+  - first:
+      213: -12205771762344871
+    second: AverageJoe_724
+  - first:
+      213: -2549912052177429599
+    second: AverageJoe_725
+  - first:
+      213: -2677050217032047514
+    second: AverageJoe_726
+  - first:
+      213: -3555645588246908621
+    second: AverageJoe_727
+  - first:
+      213: 3988310910251230435
+    second: AverageJoe_728
+  - first:
+      213: -673256463314918091
+    second: AverageJoe_729
+  - first:
+      213: 9158395934347114770
+    second: AverageJoe_730
+  - first:
+      213: 8039143114410817106
+    second: AverageJoe_731
+  - first:
+      213: -496366208611572527
+    second: AverageJoe_732
+  - first:
+      213: -3222252205645934629
+    second: AverageJoe_733
+  - first:
+      213: 2883245141400623261
+    second: AverageJoe_734
+  - first:
+      213: -6896135652581714022
+    second: AverageJoe_735
+  - first:
+      213: 2871529887263751411
+    second: AverageJoe_736
+  - first:
+      213: -2519411008837284698
+    second: AverageJoe_737
+  - first:
+      213: -6927568589796910216
+    second: AverageJoe_738
+  - first:
+      213: 2217145056095766119
+    second: AverageJoe_739
+  - first:
+      213: 3019960529068195176
+    second: AverageJoe_740
+  - first:
+      213: 170441942536752167
+    second: AverageJoe_741
+  - first:
+      213: -6593678347736665763
+    second: AverageJoe_742
+  - first:
+      213: -7868952610586022413
+    second: AverageJoe_743
+  - first:
+      213: -4203885193767504276
+    second: AverageJoe_744
+  - first:
+      213: -9157824878520884106
+    second: AverageJoe_745
+  - first:
+      213: -2577911649947729843
+    second: AverageJoe_746
+  - first:
+      213: 5443906616884966810
+    second: AverageJoe_747
+  - first:
+      213: -3136183656324564097
+    second: AverageJoe_748
+  - first:
+      213: -3014007310264446061
+    second: AverageJoe_749
+  - first:
+      213: 8478844706486777386
+    second: AverageJoe_750
+  - first:
+      213: 1426138541828623167
+    second: AverageJoe_751
+  - first:
+      213: 6128402990363241162
+    second: AverageJoe_752
+  - first:
+      213: 554155983328558099
+    second: AverageJoe_753
+  - first:
+      213: 2021982411524790909
+    second: AverageJoe_754
+  - first:
+      213: -8896717557849217149
+    second: AverageJoe_755
+  - first:
+      213: -80531984312370394
+    second: AverageJoe_756
+  - first:
+      213: 8111177197411813850
+    second: AverageJoe_757
+  - first:
+      213: 7774619105462881378
+    second: AverageJoe_758
+  - first:
+      213: -2614499104962375141
+    second: AverageJoe_759
+  - first:
+      213: -8214639796378011770
+    second: AverageJoe_760
+  - first:
+      213: -812492170596879956
+    second: AverageJoe_761
+  - first:
+      213: 5904985440887691253
+    second: AverageJoe_762
+  - first:
+      213: 3749872963211105421
+    second: AverageJoe_763
+  - first:
+      213: -2226744712542209396
+    second: AverageJoe_764
+  - first:
+      213: -1321703372383627109
+    second: AverageJoe_765
+  - first:
+      213: -2113947887796027959
+    second: AverageJoe_766
+  - first:
+      213: -3691712938332961685
+    second: AverageJoe_767
+  - first:
+      213: 5773082624475617964
+    second: AverageJoe_768
+  - first:
+      213: 6139206393672766574
+    second: AverageJoe_769
+  - first:
+      213: -2424646732026499040
+    second: AverageJoe_770
+  - first:
+      213: 4725629754557753928
+    second: AverageJoe_771
+  - first:
+      213: 6584884859295889588
+    second: AverageJoe_772
+  - first:
+      213: 7509346927149534098
+    second: AverageJoe_773
+  - first:
+      213: -237303733975656678
+    second: AverageJoe_774
+  - first:
+      213: 2404596866000019573
+    second: AverageJoe_775
+  - first:
+      213: 8364827111527826762
+    second: AverageJoe_776
+  - first:
+      213: -902149766807965046
+    second: AverageJoe_777
+  - first:
+      213: 133525428417982839
+    second: AverageJoe_778
+  - first:
+      213: 4309657662127083330
+    second: AverageJoe_779
+  - first:
+      213: 1387456021118703814
+    second: AverageJoe_780
+  - first:
+      213: -4324235094762387366
+    second: AverageJoe_781
+  - first:
+      213: -2570402817541349231
+    second: AverageJoe_782
+  - first:
+      213: -3735087201062832294
+    second: AverageJoe_783
+  - first:
+      213: 5266605514437485496
+    second: AverageJoe_784
+  - first:
+      213: 8668084348501435671
+    second: AverageJoe_785
+  - first:
+      213: 3490423408582590538
+    second: AverageJoe_786
+  - first:
+      213: 6142928054536998198
+    second: AverageJoe_787
+  - first:
+      213: -31423144804417699
+    second: AverageJoe_788
+  - first:
+      213: 4535992997368462021
+    second: AverageJoe_789
+  - first:
+      213: 8744233638710961035
+    second: AverageJoe_790
+  - first:
+      213: 8779002762538861227
+    second: AverageJoe_791
+  - first:
+      213: -542516148723326959
+    second: AverageJoe_792
+  - first:
+      213: -3834754667278967484
+    second: AverageJoe_793
+  - first:
+      213: -895053265842982656
+    second: AverageJoe_794
+  - first:
+      213: -1523337501828229744
+    second: AverageJoe_795
+  - first:
+      213: 2728445488524460330
+    second: AverageJoe_796
+  - first:
+      213: 4859679684701802632
+    second: AverageJoe_797
+  - first:
+      213: -1934136994691601978
+    second: AverageJoe_798
+  - first:
+      213: 743133158658779355
+    second: AverageJoe_799
+  - first:
+      213: -7855850555598084865
+    second: AverageJoe_800
+  - first:
+      213: 2238899734328735112
+    second: AverageJoe_801
+  - first:
+      213: 5686860375091191820
+    second: AverageJoe_802
+  - first:
+      213: 6564955636516173443
+    second: AverageJoe_803
+  - first:
+      213: -5659635261726551150
+    second: AverageJoe_804
+  - first:
+      213: -531383778943633351
+    second: AverageJoe_805
+  - first:
+      213: 2661116670562402300
+    second: AverageJoe_806
+  - first:
+      213: -39869188473358554
+    second: AverageJoe_807
+  - first:
+      213: 6139700497273975326
+    second: AverageJoe_808
+  - first:
+      213: 393773843962478535
+    second: AverageJoe_809
+  - first:
+      213: -7894651692403898475
+    second: AverageJoe_810
+  - first:
+      213: -3399807024757511246
+    second: AverageJoe_811
+  - first:
+      213: 5636130755368926676
+    second: AverageJoe_812
+  - first:
+      213: 3358362821023055065
+    second: AverageJoe_813
+  - first:
+      213: -6056840562373005517
+    second: AverageJoe_814
+  - first:
+      213: 8069779603901009394
+    second: AverageJoe_815
+  - first:
+      213: 314601437711608094
+    second: AverageJoe_816
+  - first:
+      213: -8403501435015870745
+    second: AverageJoe_817
+  - first:
+      213: -7768969960657891553
+    second: AverageJoe_818
+  - first:
+      213: -7396868664126119484
+    second: AverageJoe_819
+  - first:
+      213: -8049600608958917391
+    second: AverageJoe_820
+  - first:
+      213: 7250791210890221461
+    second: AverageJoe_821
+  - first:
+      213: 4245838621931135661
+    second: AverageJoe_822
+  - first:
+      213: -6589817819225341955
+    second: AverageJoe_823
+  - first:
+      213: 5419335980059565655
+    second: AverageJoe_824
+  - first:
+      213: -2790889169697406028
+    second: AverageJoe_825
+  - first:
+      213: 3323993618214967226
+    second: AverageJoe_826
+  - first:
+      213: -3473945815436254388
+    second: AverageJoe_827
+  - first:
+      213: 1435359209021106568
+    second: AverageJoe_828
+  - first:
+      213: -4142178072362820381
+    second: AverageJoe_829
+  - first:
+      213: 1741786760218952694
+    second: AverageJoe_830
+  - first:
+      213: 430201004341631940
+    second: AverageJoe_831
+  - first:
+      213: 2540343297351028892
+    second: AverageJoe_832
+  - first:
+      213: 8362668274903273628
+    second: AverageJoe_833
+  - first:
+      213: 804249439922503479
+    second: AverageJoe_834
+  - first:
+      213: -913983531912112808
+    second: AverageJoe_835
+  - first:
+      213: -2003299730533404315
+    second: AverageJoe_836
+  - first:
+      213: 921194966415826671
+    second: AverageJoe_837
+  - first:
+      213: -5571418802673038870
+    second: AverageJoe_838
+  - first:
+      213: 4098380300080617167
+    second: AverageJoe_839
+  - first:
+      213: 4731052051863189127
+    second: AverageJoe_840
+  - first:
+      213: 6582352429586787543
+    second: AverageJoe_841
+  - first:
+      213: 4161201176740845784
+    second: AverageJoe_842
+  - first:
+      213: 8994859660914236667
+    second: AverageJoe_843
+  - first:
+      213: -9165077059329039536
+    second: AverageJoe_844
+  - first:
+      213: 7378769679515963500
+    second: AverageJoe_845
+  - first:
+      213: 8210339769747601300
+    second: AverageJoe_846
+  - first:
+      213: -7216629612298298381
+    second: AverageJoe_847
+  - first:
+      213: -8171782573187432297
+    second: AverageJoe_848
+  - first:
+      213: 2360094458881476859
+    second: AverageJoe_849
+  - first:
+      213: 5847105012021185965
+    second: AverageJoe_850
+  - first:
+      213: 3790772386299252022
+    second: AverageJoe_851
+  - first:
+      213: -3645840983806360717
+    second: AverageJoe_852
+  - first:
+      213: 4431427855451058113
+    second: AverageJoe_853
+  - first:
+      213: -4256130116316686925
+    second: AverageJoe_854
+  - first:
+      213: 4829633941320792900
+    second: AverageJoe_855
+  - first:
+      213: 470643068158005248
+    second: AverageJoe_856
+  - first:
+      213: 4386895212994027733
+    second: AverageJoe_857
+  - first:
+      213: 8800149692769285420
+    second: AverageJoe_858
+  - first:
+      213: 4208654759486374520
+    second: AverageJoe_859
+  - first:
+      213: -4343960006915214499
+    second: AverageJoe_681
+  - first:
+      213: 6245853028707464051
+    second: AverageJoe_18
+  - first:
+      213: -4343960006915214499
+    second: AverageJoe_17
+  - first:
+      213: 2046171361530004263
+    second: AverageJoe_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AverageJoe_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2004
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d65e514d7756260800000000000000
+      internalID: 7090204941148843279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2004
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1a53da31c873290800000000000000
+      internalID: -7910700204314746434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faea396d215cc2d40800000000000000
+      internalID: 5561036324595805871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1905
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062c031daf476f9c0800000000000000
+      internalID: -3893796207214935456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1906
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32aec6e1867d53c0800000000000000
+      internalID: -4369205763184352709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1908
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc7fbbcd97cd9b0800000000000000
+      internalID: -5054030692863193133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1803
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240dbb3e1a6cdb140800000000000000
+      internalID: 4737160781676400706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1803
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f571545280dd8a80800000000000000
+      internalID: -8462878866580343312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1803
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89017aac315041c50800000000000000
+      internalID: 6634933733586047128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1803
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d9eca51cca77d0800000000000000
+      internalID: -2919797014928959297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_77
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1803
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01405a5848dd7a0800000000000000
+      internalID: -6350774189988507463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1055ec85c1adab0800000000000000
+      internalID: -4982638869987655188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_112
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1702
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ac17b4f9360280800000000000000
+      internalID: -9077504275711745198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_113
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1703
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef4afdf329331e10800000000000000
+      internalID: 2167138672443019241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_114
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1701
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1054ce57a2d80cb00800000000000000
+      internalID: 846831943452214529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1606
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07a8eca4377e600800000000000000
+      internalID: 497493048977682672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_150
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1604
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486473463879b0fb0800000000000000
+      internalID: -4680480797143644540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_151
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1605
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1d9c996c722f950800000000000000
+      internalID: 6481286547676713441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_152
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1606
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e28eff0a5047f0800000000000000
+      internalID: -630404923090868825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_153
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1604
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db429fd8009df4b90800000000000000
+      internalID: -7255341878265436995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3477c35f70da202b0800000000000000
+      internalID: -5619739135314200765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_188
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1506
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfafd84d76c412f40800000000000000
+      internalID: 5701922612059175676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_189
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1505
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e44b8964ea836c20800000000000000
+      internalID: 3198552873991095528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_190
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1509
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9280baa51c64cd880800000000000000
+      internalID: -8584908993411217367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9943fee2e8bd590800000000000000
+      internalID: -7648363209925813787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_226
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1406
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ad3f8b046c58e0800000000000000
+      internalID: -1703376558242289255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_227
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1407
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f012fbd72868be830800000000000000
+      internalID: 4101519780664516879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_228
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1405
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ef9d0e6b3a248b0800000000000000
+      internalID: -5169389416416149871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_229
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1406
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda2c2c04d6813150800000000000000
+      internalID: 5850605636226394844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_230
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1408
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578cdfe4a55bccb30800000000000000
+      internalID: 4309018342963660917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_231
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1405
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4e443bd5e8e2ec0800000000000000
+      internalID: -3589775319876967263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_263
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2b25768e2612840800000000000000
+      internalID: 5197544195267670759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_264
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1303
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e9e6a22c7509990800000000000000
+      internalID: -7381303297813078404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_265
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1303
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a325b6e694836290800000000000000
+      internalID: -7898323537827126366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_266
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1305
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c894d4d9a16f790800000000000000
+      internalID: -7496775266802758521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_267
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1304
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9a5368d1a7e28a0800000000000000
+      internalID: -6327986159184664072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_268
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1304
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9228bb9c36e2a50800000000000000
+      internalID: 6498241030427650542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_269
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1303
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b578c9456790ba280800000000000000
+      internalID: -9031114223931062437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_270
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1305
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7759181bb6252c0800000000000000
+      internalID: -4444371472133818433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_271
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1304
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b09a994b96c30b10800000000000000
+      internalID: 1946617834211283127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_272
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1305
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edafc0383ea11730800000000000000
+      internalID: 3968144303050436066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_273
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1303
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df21fdc05f7c470800000000000000
+      internalID: 8414963864396037469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_274
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1304
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeb38948f58d4500800000000000000
+      internalID: 382108844828114597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_275
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1305
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71dbe9698a06ca10800000000000000
+      internalID: 1929241075678695807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_301
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99443cdf3afac240800000000000000
+      internalID: 4812934303983094173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_302
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1205
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd6742c3a49af70800000000000000
+      internalID: 9198965336051211080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_303
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1204
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512f12c10724137a0800000000000000
+      internalID: -6399260546241007083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_304
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1206
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de826c9d5ad14d3c0800000000000000
+      internalID: -4335807943090493203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_305
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1204
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e51b9d0883de4a0800000000000000
+      internalID: -6562526955949695476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_306
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1204
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1393a657171404480800000000000000
+      internalID: -8917055306636576463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_307
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1202
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca3467a81a6b6e0800000000000000
+      internalID: -1822091383163081726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_308
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1204
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69be57b99cad760800000000000000
+      internalID: 7483515400364988067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_309
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1203
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d23f7c911ce7a60800000000000000
+      internalID: 7673783131558849883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_310
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1204
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fa6ed4da83677e0800000000000000
+      internalID: -1768163486708879551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_311
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1205
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c963550e004e10800000000000000
+      internalID: 2179757635684386395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_312
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1204
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2344f3746baea20800000000000000
+      internalID: 3092484511263634123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_313
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1204
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc634571443527200800000000000000
+      internalID: 176294887335147212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_339
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1102
+        width: 91
+        height: 94
+      alignment: 9
+      pivot: {x: 0.43827736, y: 0.45878568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f5309d35034a90800000000000000
+      internalID: -7331010006458436901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_340
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1105
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab888eb2b5e17b250800000000000000
+      internalID: 5960266008775657658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_341
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1104
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3489a4999394e90800000000000000
+      internalID: -7041033211872787549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_342
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1104
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0abadb733eaa670800000000000000
+      internalID: 8550896671061156073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_343
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1107
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9629c6403ada85520800000000000000
+      internalID: 2691091693019370089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_344
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1106
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655637b69d1b152f0800000000000000
+      internalID: -985811296048683690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_345
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1106
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db0e9d28f34a600800000000000000
+      internalID: 478577291641797964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_346
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1104
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41f889297edd9a80800000000000000
+      internalID: -8458359913162673843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_347
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1105
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876490cbe54d6d070800000000000000
+      internalID: 8130919680610748024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_348
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1104
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d877816e4604ce710800000000000000
+      internalID: 1723823559477327757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_349
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1105
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2569c7df06162e0800000000000000
+      internalID: -2134318106563685650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_350
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1107
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187c962d1b16e8550800000000000000
+      internalID: 6164972356284041089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_351
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1108
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e024c2607fdaa0800000000000000
+      internalID: -6134060597955729988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_352
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1105
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b2695f06748b20800000000000000
+      internalID: 3135761048852936988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_353
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1106
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2928ca6882e640800000000000000
+      internalID: 5107794919597615771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_354
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1109
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256cf19bcbcbb1720800000000000000
+      internalID: 2818053510596118098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_355
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1104
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb765101a48c2300800000000000000
+      internalID: 228703508136098796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_377
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca7ed5448a8ce330800000000000000
+      internalID: 3741517691150564039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_378
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1007
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f458de154339a0800000000000000
+      internalID: -6254579458706705692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_379
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1006
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23333b3df3d6ca470800000000000000
+      internalID: 8407214725295977266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_380
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1006
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ee651056304b10800000000000000
+      internalID: 1963629155118410072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_381
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1005
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734a8bdebe6fec60800000000000000
+      internalID: 7849614441536177014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_382
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1005
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bca0e4d0dc1c060800000000000000
+      internalID: 6972079155173837727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_415
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 907
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56774dcaaa9cd7ee0800000000000000
+      internalID: -1261630585712642203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_416
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 904
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f163af564ce78d50800000000000000
+      internalID: 6739615154379645433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_417
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 905
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c04673b6573c1d70800000000000000
+      internalID: 9015141399606476994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_418
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 904
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090258b1e446dcbf0800000000000000
+      internalID: -302475313332019056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_419
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 904
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e23fc7a59a71e80800000000000000
+      internalID: -8207905589750976877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_453
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3ea0ed50fb29090800000000000000
+      internalID: -8029145153727175763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_454
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 803
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe06bd690bc4b730800000000000000
+      internalID: 4014056409249746619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_455
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 804
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c80fcb85b3a440800000000000000
+      internalID: 4945996427861476833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_456
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 802
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc2e725ba1368b0800000000000000
+      internalID: -5160251382675878929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_457
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 803
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3d0729c9e5cb20800000000000000
+      internalID: 3154184164195777106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_458
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 804
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aff11375c42af00800000000000000
+      internalID: 1126546794166090267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_491
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8c52326a4acbb0800000000000000
+      internalID: -4915034257709298162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_492
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 703
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef4814e683dbc10800000000000000
+      internalID: 2070873449857089073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_493
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 701
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b170a4d75c8720800000000000000
+      internalID: 2849749234955171391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_529
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e6ecb5261ebf970800000000000000
+      internalID: 8789866910306954849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_530
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 605
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04713115a2782ad0800000000000000
+      internalID: -2726803521089211382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_531
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 605
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3fb524da340650800000000000000
+      internalID: 6198143670009412488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_532
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 602
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25ec05ce4ee74070800000000000000
+      internalID: 8090697277675201839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_533
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 604
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4db69eaf4644f70800000000000000
+      internalID: 9170565770053932285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_534
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 604
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a35fcf6569d4e0800000000000000
+      internalID: -1956421032221628498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_535
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 602
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab327c9f4f4a3280800000000000000
+      internalID: -9062844096783959121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_536
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 601
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552926e1b41ed1d0800000000000000
+      internalID: -3324196720649624238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_537
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 605
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb3a06c5364eec90800000000000000
+      internalID: -7138691162565886992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_567
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e03edc7ff32120800000000000000
+      internalID: 2388033139205269483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_568
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 505
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf56ba3c147a8a0800000000000000
+      internalID: -6293989645576963328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_569
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 505
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a01bb13e90d7dc0800000000000000
+      internalID: -3639742052818679211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_605
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eac937756299220800000000000000
+      internalID: 2493066025769938485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_606
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 407
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81582fd7b952db0e0800000000000000
+      internalID: -2252602888852175592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_607
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 405
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a81452d73bf2680800000000000000
+      internalID: -8777599798644471201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_608
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 402
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff79c652ec15360800000000000000
+      internalID: 7156727942999441247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_609
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 404
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aee8d043a465bc0800000000000000
+      internalID: -3794764048586839469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_681
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1382701e97e9a5d0800000000000000
+      internalID: -3050652606500011238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_643
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21942b412ac043620800000000000000
+      internalID: 2752839162501679378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_644
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 305
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2786a89f6d645c130800000000000000
+      internalID: 3586350567394011250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_645
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 304
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808c6245e18b9170800000000000000
+      internalID: 8186279569337909380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_1000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29a17dc7630a1650800000000000000
+      internalID: 6204275181019572524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_682
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 207
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abde7a1c1cc01f1f0800000000000000
+      internalID: -1013014414864421446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_683
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910f5eb22fd42210800000000000000
+      internalID: 1307415132160065950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AverageJoe_684
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 205
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989524cda932fee80800000000000000
+      internalID: -8147254052862666359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
